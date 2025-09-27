@@ -1,0 +1,77 @@
+{
+  "lastUpdated": "2024-01-15T14:30:00Z",
+  "summary": {
+    "totalTips": 45,
+    "wonTips": 32,
+    "lostTips": 13,
+    "winRate": 71.1,
+    "period": "Last 30 days"
+  },
+  "recentResults": [
+    {
+      "date": "2024-01-14",
+      "match": "Liverpool vs Arsenal",
+      "league": "Premier League",
+      "tip": "Over 2.5 Goals",
+      "odds": 1.85,
+      "status": "won",
+      "category": "safe"
+    },
+    {
+      "date": "2024-01-14",
+      "match": "Chelsea vs Man City",
+      "league": "Premier League",
+      "tip": "Both Teams to Score",
+      "odds": 1.70,
+      "status": "won",
+      "category": "sure"
+    },
+    {
+      "date": "2024-01-13",
+      "match": "Barcelona vs Real Madrid",
+      "league": "La Liga",
+      "tip": "Barcelona Win",
+      "odds": 2.10,
+      "status": "lost",
+      "category": "big-win"
+    },
+    {
+      "date": "2024-01-13",
+      "match": "Bayern vs Dortmund",
+      "league": "Bundesliga",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.65,
+      "status": "won",
+      "category": "safe"
+    },
+    {
+      "date": "2024-01-12",
+      "match": "PSG vs Lyon",
+      "league": "Ligue 1",
+      "tip": "PSG Win",
+      "odds": 1.45,
+      "status": "won",
+      "category": "sure"
+    }
+  ],
+  "categoryStats": {
+    "safe": {
+      "total": 15,
+      "won": 13,
+      "lost": 2,
+      "winRate": 86.7
+    },
+    "sure": {
+      "total": 15,
+      "won": 11,
+      "lost": 4,
+      "winRate": 73.3
+    },
+    "bigWin": {
+      "total": 15,
+      "won": 8,
+      "lost": 7,
+      "winRate": 53.3
+    }
+  }
+}
