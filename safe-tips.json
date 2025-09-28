@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Bayern Munich vs Borussia Dortmund",
-      "league": "Bundesliga",
-      "tip": "Bayern Win",
-      "odds": 1.80,
-      "time": "16:30",
+      "match": "Arsenal vs Olympiacos",
+      "league": "International Clubs UEFA Champions League",
+      "tip": "Home or Win",
+      "odds": 1.18,
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "PSG vs Lyon",
-      "league": "Ligue 1",
-      "tip": "PSG Win",
-      "odds": 1.55,
-      "time": "20:00",
-      "status": "won",
+      "match": "Arsenal vs West Ham",
+      "league": "England Premier League",
+      "tip": "Over 1.5",
+      "odds": 1.21,
+      "time": "14:00",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Juventus vs AC Milan",
-      "league": "Serie A",
-      "tip": "Under 3.5 Goals",
-      "odds": 1.70,
-      "time": "19:45",
-      "status": "lost",
+      "match": "inter vs US Cremonese",
+      "league": "Italy Serie A",
+      "tip": "Home or Away",
+      "odds": 1.18,
+      "time": "16:00",
+      "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
