@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Aston Villa FC 🆚 Fulham",
+      "match": "Everton 🆚 West Ham",
       "league": "England Premier League",
-      "tip": "Home Handicap 2:0",
-      "odds": 1.22,
-      "time": "13:00",
+      "tip": "Everton Wins or Draw",
+      "odds": 1.18,
+      "time": "19:00",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Roma 🆚 Verona",
-      "league": "Italy Serie A",
-      "tip": "Handicap 1:0",
+      "match": "FC Arouca 🆚 Porto",
+      "league": "Portual Liga Portugal",
+      "tip": "Porto Over 0.5 goals",
       "odds": 1.15,
-      "time": "13:00",
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Barcelona 🆚 Real Sociedad",
-      "league": "Spain LaLiga",
-      "tip": "Home or Away",
-      "odds": 1.22,
-      "time": "16:30",
+      "match": "FC Kaira A 🆚 Real Madrid",
+      "league": "International Clubs UEFA Championship League",
+      "tip": "Real Madrid Wins",
+      "odds": 1.18,
+      "time": "16:45",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
