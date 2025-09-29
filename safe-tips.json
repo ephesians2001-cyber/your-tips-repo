@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Arsenal 🆚 Olympiacos",
-      "league": "International Clubs UEFA Champions League",
-      "tip": "Home or Win",
+      "match": "FC Struga Trim 🆚 Pelister Bitola",
+      "league": "North Macedonia 1, MFL",
+      "tip": "Over 1.5 Goals",
       "odds": 1.18,
-      "time": "19:00",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Arsenal 🆚 West Ham",
-      "league": "England Premier League",
-      "tip": "Over 1.5",
-      "odds": 1.21,
-      "time": "14:00",
+      "match": "Ural Yekaterinburg 🆚 Ska-Khabarovsk",
+      "league": "Russia 1, Liga",
+      "tip": "Home or Draw",
+      "odds": 1.14,
+      "time": "13:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "inter 🆚 US Cremonese",
-      "league": "Italy Serie A",
-      "tip": "Home or Away",
-      "odds": 1.18,
-      "time": "16:00",
+      "match": "Dinamo Samarqand 🆚 PFC Shurtan",
+      "league": "Uzbekistan Superliga",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.26,
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
