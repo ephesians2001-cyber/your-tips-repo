@@ -2,11 +2,11 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Everton 🆚 West Ham",
-      "league": "England Premier League",
-      "tip": "Everton Wins or Draw",
+      "match": "FSK Mariupol 🆚 FSC Bukovyna C",
+      "league": "Ukraine Persha Liga",
+      "tip": "Home or Away",
       "odds": 1.18,
-      "time": "19:00",
+      "time": "12:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
@@ -20,11 +20,11 @@
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Kairat A 🆚 Real Madrid",
-      "league": "International Clubs UEFA Championship League",
-      "tip": "Real Madrid Wins",
+      "match": "Toensberg 871 🆚 SK Brann 2",
+      "league": "Norway 2nd Division Group1",
+      "tip": "1st half Over 0.5",
       "odds": 1.18,
-      "time": "16:45",
+      "time": "12:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
