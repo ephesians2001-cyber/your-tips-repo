@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "BFC Daugavpils 🆚 Riga FC",
-      "league": "Latvia Virsliga",
-      "tip": "Home or Draw",
-      "odds": 1.27,
-      "time": "15:00",
+      "match": "Pafos 🆚 Bayern Munich",
+      "league": "Int. Clubs UEFA Champions League",
+      "tip": "Bayern Wins",
+      "odds": 1.15,
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "USM Alger 🆚 EL Bayadh",
-      "league": "Algeria Ligue 1",
-      "tip": "Alger 0.5 Goals",
+      "match": "ASC & Center 🆚 Bengalura Utd",
+      "league": "India Bangalore Super Division",
+      "tip": "Bangalura Wins",
       "odds": 1.18,
-      "time": "14:00",
+      "time": "10:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Adana Demirspor 🆚 Sariyer SK",
-      "league": "Turkiye 1, Lig",
-      "tip": "Sariyer Wins",
+      "match": "Pafos U19 🆚 Bayern Munich",
+      "league": "Int. Youth UEFA Youth League",
+      "tip": "Over 1.5 goals",
       "odds": 1.15,
-      "time": "17:00",
+      "time": "11:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
