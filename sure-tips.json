@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Pafos 🆚 Bayern Munich",
-      "league": "Int. Clubs UEFA Champions League",
-      "tip": "Bayern Wins",
+      "match": "Progres Niederkorn 🆚 US Hostert",
+      "league": "Luxembourg Division Nationale",
+      "tip": "ove 1.5 goals",
       "odds": 1.15,
-      "time": "19:00",
+      "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "ASC & Center 🆚 Bengalura Utd",
-      "league": "India Bangalore Super Division",
-      "tip": "Bangalura Wins",
+      "match": "UNa Strassen 🆚 Un Kaerjeng 97",
+      "league": "Luxembourg Division Nationale",
+      "tip": "Over 1.5",
       "odds": 1.18,
-      "time": "10:30",
+      "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
       "match": "Pafos U19 🆚 Bayern Munich",
-      "league": "Int. Youth UEFA Youth League",
-      "tip": "Over 1.5 goals",
+      "league": "Int. Morocco Botola pro D1",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "11:00",
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
