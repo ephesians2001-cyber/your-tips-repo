@@ -2,11 +2,11 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Chengdu R 🆚 Gangwon FC",
+      "match": "Arsenal 🆚 Olympiacos",
       "league": "Int. Clubs AFC Champions League",
-      "tip": "Home over 1.5 Goals",
-      "odds": 1.18,
-      "time": "12:00",
+      "tip": "Home or Away",
+      "odds": 1.13,
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
@@ -20,74 +20,74 @@
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Buducnost P. 🆚 Haverfordwest County",
+      "match": "Qarabag FK 🆚 FC Copenhagen",
       "league": "Int. Youth UEFA Youth League",
-      "tip": "Home or away",
+      "tip": "Away Wins",
       "odds": 1.15,
-      "time": "16:00",
+      "time": "10:00",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     },
     {
-      "match": "Kalmar FF 🆚 Orebro SK",
-      "league": "Sweden Superettan",
-      "tip": "Home or draw",
+      "match": "Apr FC 🆚 Pyramids FC",
+      "league": "Int. Clubs CAF Championship League",
+      "tip": "Draw or Away",
       "odds": 1.18,
-      "time": "17:00",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "SE Aem 🆚 CE Eurapa",
-      "league": "Spain Copa de SM La Reina",
-      "tip": "Home or Draw",
+      "match": "Thesprotos 🆚 Asteras Stavrou",
+      "league": "Greece Gamma Ethiniki",
+      "tip": "Away Wins",
       "odds": 1.14,
-      "time": "13:30",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
       "match": "Birmingham City 🆚 Sheffield Wednesday",
-      "league": "England Championship",
+      "league": "Cyprus Cyprus Cup",
       "tip": "Home or Draw",
       "odds": 1.15,
-      "time": "18:00",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     },
     {
-      "match": "Leicester 🆚 Wrexham AFC",
-      "league": "England Championship",
-      "tip": "Home or Draw",
+      "match": "HJK Helsinki 🆚 NFA BE1",
+      "league": "Int. Youth UEFA Youth League",
+      "tip": "Home Wins",
       "odds": 1.18,
-      "time": "18:45",
+      "time": "15:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Inter 🆚 Slavia Prague",
-      "league": "Int. Clubs UEFA Champions League",
-      "tip": "Home or Away",
+      "match": "FK Panevezys 🆚 Dainava Alytus",
+      "league": "Lithuania A Lyga",
+      "tip": "Home draw",
       "odds": 1.14,
-      "time": "13:30",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Pafos FC 🆚 Bayern Munich",
-      "league": "Int. Clubs UEFA Champions League",
+      "match": "Far Rabat 🆚 Ittihad Tangar",
+      "league": "Morocco Botola Pro D1",
       "tip": "Home or Away",
       "odds": 1.13,
-      "time": "19:00",
+      "time": "17:00",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     },
      {
-      "match": "Marseille 🆚 Ajax",
-      "league": "Int. Clubs UEFA Champions League",
-      "tip": "Home or Draw",
+      "match": "SV Mappen 1912 🆚 HSC Hannover",
+      "league": "Germany Amateur Regionalliga North",
+      "tip": "Home wins",
       "odds": 1.15,
-      "time": "19:00",
+      "time": "17:30",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
