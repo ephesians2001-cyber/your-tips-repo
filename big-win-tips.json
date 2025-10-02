@@ -2,92 +2,56 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Arsenal 🆚 Olypiacos",
+      "match": "FC Porto 🆚 FK Crvena Zvezda",
       "league": "International Clubs UEFA Champions L",
-      "tip": "Over 2.5",
-      "odds": 1.51,
+      "tip": "Porto Wins",
+      "odds": 1.50,
       "time": "19:00",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Barclona 🆚 PSG",
+      "match": "Basel 🆚 Stuttgart",
       "league": "International Clubs UEFA Champions L",
-      "tip": "Over 1.5 goals",
-      "odds": 1.28,
-      "time": "19:00",
+      "tip": "Both Team Scores/Yes",
+      "odds": 1.50,
+      "time": "00:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Monaco 🆚 Man City",
-      "league": "Int. Clubs UEFA Championship League",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.70,
-      "time": "19:00",
+      "match": "Panathinaikos 🆚 Go Ahead Eagles",
+      "league": "UEFA Europa League",
+      "tip": "Home Wins",
+      "odds": 1.66,
+      "time": "00:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     },
      {
-      "match": "San Sebastian 🆚 Toledo Sad",
-      "league": "Spain Copa Federacion",
-      "tip": "over 1.5 goals",
+      "match": "AS Roma 🆚 Lille",
+      "league": "EFA Europa League",
+      "tip": "Home or Draw",
       "odds": 1.42,
-      "time": "15:30",
+      "time": "00:00",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Akritas C 🆚 D. Katokopias",
-      "league": "Cyprus Cyprus Cup",
-      "tip": "Home To Qualify",
-      "odds": 1.23,
+      "match": "Feyenoord 🆚 Aston Villa",
+      "league": "EFA Europa League",
+      "tip": "Both Team Scores",
+      "odds": 1.70,
       "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Dinamo Tbilisi 🆚 Zrinjski Mostar",
-      "league": "International Youth UEFA Champions L",
-      "tip": "Home or Draw",
-      "odds": 1.18,
-      "time": "16:00",
-      "status": "pending",
-      "createdAt": "2024-01-15T11:30:00Z"
-    },
-     {
-      "match": "Esteghlal FC 🆚 Al-Muharraq SC",
-      "league": "International Clubs UEFA Champions L",
-      "tip": "Home Wins",
+      "match": "Legia Varsova 🆚 Samsunspor",
+      "league": "EFA Europa League",
+      "tip": "Under 2.5 goals",
       "odds": 1.40,
-      "time": "12:30",
-      "status": "Pending",
-      "createdAt": "2024-01-15T10:00:00Z"
-    },
-    {
-      "match": "AS Far Rabat 🆚 Ittihad Tanger",
-      "league": "Morocco Botola Pro D1",
-      "tip": "Home Wins",
-      "odds": 1.41,
-      "time": "17:00",
-      "status": "pending",
-      "createdAt": "2024-01-14T09:15:00Z"
-    },
-    {
-      "match": "Hessen Kassel 🆚 Bahlinger SC",
-      "league": "Germany Amateur",
-      "tip": "Home Wins",
-      "odds": 1.31,
-      "time": "17:00",
-      "status": "pending",
-      "createdAt": "2024-01-15T11:30:00Z"
-    },
-    {
-      "match": "FC Progress N. 🆚 US Hostert",
-      "league": "Luxembourg Division Nationale",
-      "tip": "Home Wins",
-      "odds": 1.41,
-      "time": "18:00",
+      "time": "00:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
