@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Zrinjski Mosta 🆚 Lincoln Red Lmps",
-      "league": "UEFA Conference League",
-      "tip": "ove 1.5 goals",
-      "odds": 1.42,
-      "time": "16:00",
+      "match": "USM EL Harrach 🆚 Crb Adrar",
+      "league": "Algeria Ligue 2",
+      "tip": "Home Wins",
+      "odds": 1.23,
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Jagiellonia 🆚 Spartans FC",
-      "league": "UEFA Conference League",
-      "tip": "Home or Away",
-      "odds": 1.18,
-      "time": "16:45",
+      "match": "Riga FC 🆚 FK Liepaja",
+      "league": "Latvia Virsliga",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.17,
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Rayo Vallecano 🆚 Shkendija Tetovo",
-      "league": "UEFA Conference League",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.15,
-      "time": "16:45",
+      "match": "CSKA Moscow 🆚 ZFK Krasnodar",
+      "league": "Russia Superleague, Women",
+      "tip": "Home Wins",
+      "odds": 1.14,
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
