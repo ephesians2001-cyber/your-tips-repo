@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "USM EL Harrach 🆚 Crb Adrar",
-      "league": "Algeria Ligue 2",
-      "tip": "Home Wins",
-      "odds": 1.23,
-      "time": "14:00",
+      "match": "Ascoli Calcio 🆚 AC Bra",
+      "league": "Italy Serie C, Group B",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.11,
+      "time": "12:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Riga FC 🆚 FK Liepaja",
-      "league": "Latvia Virsliga",
-      "tip": "Over 1.5 Goals",
+      "match": "neulengbach 🆚 Austria Wien",
+      "league": "Austria Amateur Bundesliga, Women",
+      "tip": "Away Wins",
       "odds": 1.17,
-      "time": "15:00",
+      "time": "12:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "CSKA Moscow 🆚 ZFK Krasnodar",
-      "league": "Russia Superleague, Women",
-      "tip": "Home Wins",
+      "match": "Connah's Quay 🆚 Llanelli Town",
+      "league": "Wales Cymru Premier",
+      "tip": "Home or Away",
       "odds": 1.14,
-      "time": "15:00",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
