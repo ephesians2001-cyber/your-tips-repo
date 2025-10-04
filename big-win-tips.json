@@ -2,20 +2,20 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Hoffenheim 🆚 Cologne",
-      "league": "Germany Bundesliga",
+      "match": "Real Madrid 🆚 Vilarreal",
+      "league": "Spain Laliga",
       "tip": "Over 1.5 Goals",
       "odds": 1.21,
-      "time": "18:30",
+      "time": "19:00",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Verona 🆚 Sassuolo",
-      "league": "Italy Serie A",
-      "tip": "Over 1.5 Goals",
+      "match": "Brest 🆚 Nantes",
+      "league": "France Ligue 1",
+      "tip": "Brest Home or Draw",
       "odds": 1.50,
-      "time": "18:45",
+      "time": "17:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
@@ -29,29 +29,29 @@
       "createdAt": "2024-01-15T11:30:00Z"
     },
      {
-      "match": "Lamphun Warriors 🆚 Muang Thong Utd",
-      "league": "Thailand Thai League1",
+      "match": "Frankfurt 🆚 Bayern Munich",
+      "league": "Germany Bundesliga",
       "tip": "Over 1.5 Goals",
       "odds": 1.35,
-      "time": "12:00",
+      "time": "16:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "ACS cil Blaj 🆚 Unirea Alaba Lulia",
-      "league": "Romania Liga 3",
-      "tip": "Away Wins",
-      "odds": 1.35,
-      "time": "12:00",
+      "match": "Arsenal 🆚 West Ham",
+      "league": "England Premier League",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.17,
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "CSKA Sofia 🆚 Sportist Svoge",
-      "league": "Bulgaria Vtora Liga",
-      "tip": "Home wins",
-      "odds": 1.40,
-      "time": "13:00",
+      "match": "Leed Utd 🆚 Tottenham",
+      "league": "England Premier League",
+      "tip": "Tottenham Over 1.5 Goals",
+      "odds": 1.35,
+      "time": "11:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
