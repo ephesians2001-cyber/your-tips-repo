@@ -34,7 +34,7 @@
       "tip": "Home Wins",
       "odds": 1.13,
       "time": "12:00",
-      "status": "pending",
+      "status": "won",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
@@ -43,7 +43,7 @@
       "tip": "Home Wins",
       "odds": 1.12,
       "time": "12:10",
-      "status": "pending",
+      "status": "won",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
@@ -52,7 +52,7 @@
       "tip": "Home or Away",
       "odds": 1.14,
       "time": "12:15",
-      "status": "pending",
+      "status": "lost",
       "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
