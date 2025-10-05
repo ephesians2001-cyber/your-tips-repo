@@ -7,7 +7,7 @@
       "tip": "AIK Over 0.5 goals",
       "odds": 1.15,
       "time": "12:00",
-      "status": "pending",
+      "status": "won",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
@@ -16,7 +16,7 @@
       "tip": "Home Wins",
       "odds": 1.18,
       "time": "13:00",
-      "status": "pending",
+      "status": "won",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
@@ -25,7 +25,7 @@
       "tip": "Over 1.5 goals",
       "odds": 1.15,
       "time": "13:00",
-      "status": "pending",
+      "status": "lost",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
