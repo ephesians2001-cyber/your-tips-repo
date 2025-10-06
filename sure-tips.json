@@ -2,30 +2,57 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "AIK 🆚 IFK Varnamo",
-      "league": "Sweden Allsvenskan",
-      "tip": "AIK Over 0.5 goals",
-      "odds": 1.15,
-      "time": "12:00",
-      "status": "won",
+      "match": "Sungun Varzaghan 🆚 SaiPa FC",
+      "league": "Iran Azadegan League",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.18,
+      "time": "13:00",
+      "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Rigas Futbola 🆚 FK Metta/Lu",
-      "league": "Latvia Virsliga",
-      "tip": "Home Wins",
-      "odds": 1.18,
+      "match": "Vihren Sandanski 🆚 Marek Dupnica",
+      "league": "Bulgaria Vtora Liga",
+      "tip": "Over 1.5 goals",
+      "odds": 1.35,
       "time": "13:00",
-      "status": "won",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Ararat-Armenia 🆚 Gandzasar Kapan",
-      "league": "Armenia Premier League",
-      "tip": "Over 1.5 goals",
-      "odds": 1.15,
-      "time": "13:00",
-      "status": "lost",
+      "match": "Al-Nahda 🆚 Al-Shabab",
+      "league": "Oman Professional League Cup",
+      "tip": "Home or Away",
+      "odds": 1.19,
+      "time": "13:20",
+      "status": "pending",
+      "createdAt": "2024-01-15T11:30:00Z"
+    },
+     {
+      "match": "Al-Seeb 🆚 Bahla Club",
+      "league": "Oman Professional League Cup",
+      "tip": "Home or Away",
+      "odds": 1.42,
+      "time": "14:20",
+      "status": "Pending",
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Kvik Halden 🆚 Stabaek Fotball 2",
+      "league": "Norway 3rd Division Group 6",
+      "tip": "Home Wins",
+      "odds": 1.27,
+      "time": "14:30",
+      "status": "pending",
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Remo Stars 🆚 Wikki Tourists FC",
+      "league": "Nigeria Premier League",
+      "tip": "Home or Away",
+      "odds": 1.23,
+      "time": "15:00",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
