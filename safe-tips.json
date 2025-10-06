@@ -2,8 +2,8 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Muglaspor 🆚 Erbaaspor",
-      "league": "Turkiye Amateur 2. Lig",
+      "match": "Targu Mures 🆚 Gloria 2018 Bistrita",
+      "league": "Romania Liga 2",
       "tip": "Over i.5 Goals",
       "odds": 1.19,
       "time": "16:00",
@@ -11,47 +11,47 @@
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Jonkopings Sodra 🆚 Skovde AIK",
-      "league": "Sweden Ettan, Sodra",
-      "tip": "Over 1.5 Goals",
+      "match": "Hacken Gothenburg 🆚 GKS Katowice",
+      "league": "Int. Clubs UEFA Europa, Women",
+      "tip": "Home Over 1.5 Goals",
       "odds": 1.18,
       "time": "17:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Tiller IL 🆚 Rosenborg BK 2",
-      "league": "Norway 3rd Division Group 2",
-      "tip": "Away Wins",
+      "match": "FC Versailles 🆚 FC Villefranche",
+      "league": "France National",
+      "tip": "Home Over 0.5",
       "odds": 1.15,
       "time": "17:00",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     },
     {
-      "match": "FC Botosani 🆚 FC Uta Arad",
-      "league": "Romania Superliga",
-      "tip": "Under 4.5 Goals",
+      "match": "Reading FC 🆚 Milton Keynes",
+      "league": "England EFL Trophy",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.13,
-      "time": "17:30",
+      "time": "18:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Crystal Palace U21 🆚 Birmingham U21",
-      "league": "England Amateur U21",
-      "tip": "Home Wins",
-      "odds": 1.14,
+      "match": "Rotherham Utd 🆚 Oldham Athletic",
+      "league": "England EFL Trophy",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.18,
       "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Ham-Kam 2 🆚 Ullensaker/kisa 2",
-      "league": "Norway 3rd Division Group 3",
-      "tip": "Over 2.5 Goals",
+      "match": "Stevenage FC 🆚 Bromley FC",
+      "league": "England EFL Trophy",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.24,
-      "time": "19:00",
+      "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
