@@ -3,28 +3,28 @@
   "tips": [
     {
       "match": "Bournemouth U21 🆚 Colchester U21",
-      "league": "England Amateur U21",
-      "tip": "Home Wins",
+      "league": "Argentina Primera LPF Reserves",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "12:00",
+      "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FC Orenburg 🆚 Nosta Novotroitsk",
-      "league": "Russia 2, Liga",
-      "tip": "Over 1.5",
+      "match": "AL Ahli Doha 🆚 AL Shahaniya SC",
+      "league": "Qatar U23 Olympic League",
+      "tip": "Home or Away",
       "odds": 1.18,
-      "time": "12:00",
+      "time": "15:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Halden FK 🆚 Stabaek Fotball 2",
-      "league": "Norway 3rd Division Group 6",
-      "tip": "Home Wins",
+      "match": "Scunthorpe Utd 🆚 Morecambe FC",
+      "league": "England National League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "14:30",
+      "time": "18:45",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
