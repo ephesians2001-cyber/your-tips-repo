@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Bournemouth U21 🆚 Colchester U21",
-      "league": "Argentina Primera LPF Reserves",
-      "tip": "Home or Away",
+      "match": "Armenia 🆚 Germany",
+      "league": "Int Youth u19 Euro Champ Qualification",
+      "tip": "Over 2.5 Goals",
       "odds": 1.15,
-      "time": "18:00",
-      "status": "won",
+      "time": "1y:00",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AL Ahli Doha 🆚 AL Shahaniya SC",
-      "league": "Qatar U23 Olympic League",
-      "tip": "Home or Away",
-      "odds": 1.18,
-      "time": "15:30",
-      "status": "won",
+      "match": "Sparta Prague 🆚 Ferencvarosi Budapest",
+      "league": "Int. Clubs UEFA Europa Cup, Women",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.25,
+      "time": "17:00",
+      "status": "Pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Scunthorpe Utd 🆚 Morecambe FC",
-      "league": "England National League",
-      "tip": "Over 1.5 Goals",
+      "match": "Indonesia 🆚 Saudi Arabia",
+      "league": "Int. World Cup Qualification AFC",
+      "tip": "Handicap 3:0",
       "odds": 1.15,
-      "time": "18:45",
-      "status": "won",
+      "time": "17:05",
+      "status": "Pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
