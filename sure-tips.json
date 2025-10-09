@@ -2,8 +2,8 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Lebanon 🆚 Bhutan",
-      "league": "Int. AFC Asian Cup QF",
+      "match": "Lesotho 🆚 Nigeria",
+      "league": "Int. World Cup, Qualification CAF",
       "tip": "Over 2.5 Goals",
       "odds": 1.15,
       "time": "16:00",
@@ -11,20 +11,20 @@
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Syria 🆚 Myanmar",
-      "league": "Int. AFC Asian Cup QF",
-      "tip": "Over 1.5 Goals",
+      "match": "Sao Tome Principe 🆚 Tunisia",
+      "league": "Int. World Cup, Qualification CAF",
+      "tip": "Over 2.5 Goals",
       "odds": 1.15,
-      "time": "16:15",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Scotland 🆚 Gibraltar",
-      "league": "In. Youth U21 UEFA Champ. Quali.",
-      "tip": "Over 2.5 Goals",
+      "match": "Zimbabwe 🆚 South Africa",
+      "league": "Int. World Cup, Qualification CAF",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "16:30",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
