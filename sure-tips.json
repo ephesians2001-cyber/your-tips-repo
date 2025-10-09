@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Armenia 🆚 Germany",
-      "league": "Int Youth u19 Euro Champ Qualification",
+      "match": "Lebanon 🆚 Bhutan",
+      "league": "Int. AFC Asian Cup QF",
       "tip": "Over 2.5 Goals",
       "odds": 1.15,
-      "time": "1y:00",
-      "status": "won",
+      "time": "16:00",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Sparta Prague 🆚 Ferencvarosi Budapest",
-      "league": "Int. Clubs UEFA Europa Cup, Women",
+      "match": "Syria 🆚 Myanmar",
+      "league": "Int. AFC Asian Cup QF",
       "tip": "Over 1.5 Goals",
-      "odds": 1.25,
-      "time": "17:00",
-      "status": "lost",
+      "odds": 1.15,
+      "time": "16:15",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Indonesia 🆚 Saudi Arabia",
-      "league": "Int. World Cup Qualification AFC",
-      "tip": "Handicap 3:0",
+      "match": "Scotland 🆚 Gibraltar",
+      "league": "In. Youth U21 UEFA Champ. Quali.",
+      "tip": "Over 2.5 Goals",
       "odds": 1.15,
-      "time": "17:05",
-      "status": "won",
+      "time": "16:30",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
