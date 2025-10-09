@@ -28,32 +28,32 @@
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     },
-    {
-      "match": "Botswana 🆚 Uganda",
-      "league": "Int. World Cup Qualification CAF",
-      "tip": "Over 0.5 Goals",
-      "odds": 1.13,
-      "time": "16:00",
+   {
+      "match": "Kazakhstan 🆚 Liechtenstein",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Home or Away",
+      "odds": 1.18,
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Liberia 🆚 Namibia",
-      "league": "Int. World Cup Qualification CAF",
-      "tip": "Under 3.5 Goals",
+      "match": "Belgium 🆚 North Macedonia",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.14,
-      "time": "16:00",
+      "time": "18:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Somalia 🆚 Algeria",
-      "league": "Int. World Cup Qualification CAF",
+      "match": "Germany 🆚 Luxembourg",
+      "league": "Int. World Cup Qualification UEFA",
       "tip": "Over 2.5 Goals",
       "odds": 1.19,
-      "time": "16:00",
+      "time": "18:45",
       "status": "pending",
-      "createdAt": "2024-01-13T11:30:00Z"
+      "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
 }
