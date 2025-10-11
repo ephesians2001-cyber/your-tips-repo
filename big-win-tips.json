@@ -2,57 +2,57 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Kazakhstan 🆚 Liechtenstein",
+      "match": "Hungary 🆚 Armenia",
       "league": "Int. World Cup Qualification UEFA",
-      "tip": "Home Wins",
-      "odds": 1.18,
-      "time": "14:00",
-      "status": "won",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.32,
+      "time": "16:00",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Belgium 🆚 North Macedonia",
+      "match": "Norway 🆚 Isreal",
       "league": "Int. World Cup Qualification UEFA",
-      "tip": "Home Wins",
+      "tip": "Over 1.5 Goals",
       "odds": 1.14,
-      "time": "18:45",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Germany 🆚 Luxembourg",
+      "match": "Bulgaria 🆚 Turkey",
       "league": "Int. World Cup Qualification UEFA",
-      "tip": "Home Wins",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
       "time": "18:45",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     },
      {
-      "match": "FC Bengalure 🆚 FC Agniputhra",
-      "league": "India Bangalore Super Division",
-      "tip": "Home Wins",
+      "match": "Estonia 🆚 Italy",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.27,
-      "time": "10:30",
-      "status": "won",
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FC Unirea Alba 🆚 ACS Unirea Sintana",
-      "league": "Romania Liga 3",
-      "tip": "Home Wins",
+      "match": "Portugal 🆚 Ireland",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.27,
-      "time": "12:00",
-      "status": "won",
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Uruguay 🆚 Dominican Republic",
-      "league": "Int Friendly Games",
-      "tip": "Home Wins",
+      "match": "Spain 🆚 Georgia",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.23,
-      "time": "12:45",
-      "status": "won",
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
