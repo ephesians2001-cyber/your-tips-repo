@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Lesotho 🆚 Nigeria",
-      "league": "Int. World Cup, Qualification CAF",
-      "tip": "Over 2.5 Goals",
-      "odds": 1.15,
-      "time": "16:00",
-      "status": "won",
+      "match": "Spain 🆚 Georgia",
+      "league": "Int. World Cup, Qualification UEFA",
+      "tip": "Spain First Goal",
+      "odds": 1.20,
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Sao Tome Principe 🆚 Tunisia",
-      "league": "Int. World Cup, Qualification CAF",
-      "tip": "Over 2.5 Goals",
+      "match": "Portugal 🆚 Ireland",
+      "league": "Int. World Cup, Qualification UEFA",
+      "tip": "Portugal First Goal",
       "odds": 1.15,
-      "time": "16:00",
-      "status": "won",
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Zimbabwe 🆚 South Africa",
-      "league": "Int. World Cup, Qualification CAF",
-      "tip": "Home or Away",
+      "match": "Estonia 🆚 Italy",
+      "league": "Int. World Cup, Qualification UEFA",
+      "tip": "Italy Firt Goal",
       "odds": 1.15,
-      "time": "16:00",
-      "status": "lost",
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
