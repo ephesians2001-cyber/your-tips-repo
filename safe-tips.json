@@ -2,58 +2,58 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Chongqing T. FC 🆚 Foshan Nanshi",
-      "league": "China China League 1",
-      "tip": "Over 1.5 Goals",
+      "match": "MTK Budapest 🆚 Pte Peac",
+      "league": "Hungary NB III",
+      "tip": "Home Wins",
       "odds": 1.14,
-      "time": "11:30",
+      "time": "11:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Norway 🆚 Armenia",
-      "league": "Int. Youth U19 Euro Championship Qua.",
-      "tip": "Over 2.5 Goals",
-      "odds": 1.26,
-      "time": "13:00",
+      "match": "FC Arlande 🆚 Team TG FF",
+      "league": "Sweden Ettan, Norra",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.19,
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Elana Torun 🆚 Viktoria Wrzenia",
-      "league": "Poland III Liga, Group 2",
-      "tip": "Home Draw",
+      "match": "Varbergs GIF 🆚 Bergdalens IK",
+      "league": "Sweden Division 2, Vastra Gotaland",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "13:00",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     },
-   {
-      "match": "FK Hodonin 🆚 Poland Nad Odrou",
-      "league": "Czechia MSFL",
-      "tip": "Home or Away",
-      "odds": 1.18,
-      "time": "13:00",
+    {
+      "match": "Ankara Demirspor 🆚 Idmanyurdu Spor",
+      "league": "Turkiye Amateur 2, Lig",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.13,
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Toensberg 871 🆚 Flekkeroy IL",
-      "league": "Norway 2nd Division Group1",
-      "tip": "Over 1.5 Goals",
+      "match": "Aris 🆚 FC Levadiakos",
+      "league": "Greece U19 super League",
+      "tip": "Home Wins",
       "odds": 1.14,
-      "time": "13:00",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "IF Floeya 🆚 KFUM 2",
-      "league": "Norway 3rd Division Group1",
-      "tip": "Home or Way",
+      "match": "Aberdeen LFC 🆚 Hamilton Academical",
+      "league": "Scotland Premier League, Women",
+      "tip": "Home or Away",
       "odds": 1.19,
-      "time": "13:00",
+      "time": "12:00",
       "status": "pending",
-      "createdAt": "2024-01-15T11:30:00Z"
+      "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
 }
