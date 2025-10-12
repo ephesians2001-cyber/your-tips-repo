@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Spain 🆚 Georgia",
-      "league": "Int. World Cup, Qualification UEFA",
-      "tip": "Spain First Goal",
-      "odds": 1.20,
-      "time": "18:45",
+      "match": "San Marino 🆚 Cyprus",
+      "league": "Int. World Cup Qual. UEFA",
+      "tip": "Home or Away",
+      "odds": 1.15,
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Portugal 🆚 Ireland",
-      "league": "Int. World Cup, Qualification UEFA",
-      "tip": "Portugal First Goal",
+      "match": "Zambia 🆚 Niger",
+      "league": "Int. World Cup Qual. UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "18:45",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Estonia 🆚 Italy",
-      "league": "Int. World Cup, Qualification UEFA",
-      "tip": "Italy Firt Goal",
+      "match": "Brest 🆚 FC Saint Lo Manche",
+      "league": "France U19 National",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "18:45",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
