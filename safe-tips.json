@@ -1,59 +1,32 @@
 {
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
-     {
-      "match": "Tunisia 🆚 Namibia",
-      "league": "Int. World Cup, Qualification CAF",
-      "tip": "Home or Away",
-      "odds": 1.22,
+      {
+      "match": "Seychelles 🆚 Gambia",
+      "league": "Int. World Cup Quali CAF",
+      "tip": "Gambia 0.5 Goals",
+      "odds": 1.18,
       "time": "13:00",
-      "status": "won",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Aizawl FC 🆚 Dinthar FC",
-      "league": "India Mizoram Premier League",
+      "match": "Malaysia 🆚 Laos",
+      "league": "Int. AFC Asian Cup QF",
       "tip": "Over 2.5 Goals",
-      "odds": 1.42,
-      "time": "13:30",
-      "status": "won",
+      "odds": 1.19,
+      "time": "13:00",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Villa Mitre 🆚 Guillermo Brown",
-      "league": "Argentina Torneo Federal A",
-      "tip": "Home or Away",
-      "odds": 1.20,
-      "time": "14:00",
-      "status": "won",
-      "createdAt": "2024-01-13T11:30:00Z"
-    },
-    {
-      "match": "Romania 🆚 Czechia",
-      "league": "Int. Youth U20 Friendly Games",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.29,
-      "time": "14:00",
-      "status": "won",
-      "createdAt": "2024-01-15T10:00:00Z"
-    },
-    {
-      "match": "Naft Abadan FC 🆚 Havadar SC",
-      "league": "Iran Azadegan League",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.14,
-      "time": "15:30",
-      "status": "won",
-      "createdAt": "2024-01-14T09:15:00Z"
-    },
-    {
-      "match": "Belarus 🆚 Russia",
-      "league": "Int. Youth U21 Friendly Games",
-      "tip": "Home or Away",
-      "odds": 1.24,
-      "time": "15:30",
-      "status": "won",
-      "createdAt": "2024-01-13T11:30:00Z"
+      "match": "Nigeria 🆚 Benin",
+      "league": "Int. World Cup, Qual. CAF",
+      "tip": "Nigeria Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "16:00",
+      "status": "pending",
+      "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
 }
