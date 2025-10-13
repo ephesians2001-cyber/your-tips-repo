@@ -1,58 +1,58 @@
 {
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
-    {
-      "match": "Netherlands 🆚 Finland",
-      "league": "Int. World Cup Qualification UEFA",
-      "tip": "Home First Goal",
+      {
+      "match": "Shahrdari 🆚 Mes Shahr-e Babak",
+      "league": "Iran Azadegan League",
+      "tip": "Over 0.5 Goals",
       "odds": 1.18,
-      "time": "16:00",
-      "status": "won",
+      "time": "11:30",
+      "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Scotland 🆚 Belarus",
-      "league": "Int. World Cup Qualification UEFA",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.19,
-      "time": "16:00",
-      "status": "won",
+      "match": "South Sudan 🆚 Togo",
+      "league": "Int. World Cup Qualification CAF",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.25,
+      "time": "12:00",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Atletico Albacete 🆚 CD Marchamalo",
-      "league": "Spain Amateur Tercera Federacion",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.32,
-      "time": "09:30",
-      "status": "won",
+      "match": "Santa Clara 🆚 CD Estoril Praia U23",
+      "league": "Portugal U23 Liga Revelacao",
+      "tip": "Home or Away",
+      "odds": 1.25,
+      "time": "12:00",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     },
      {
-      "match": "UD Logrones B 🆚 Comillas CF",
-      "league": "Spain Amateur Tercera",
-      "tip": "Over 1.5 Goals",
+      "match": "Metalist Kharkiv 🆚 Nyva Ternopil",
+      "league": "Ukraine Persha Liga",
+      "tip": "Home or Away",
       "odds": 1.22,
-      "time": "10:30",
-      "status": "won",
+      "time": "12:15",
+      "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Pogon Szczecin 🆚 Tluchovia Tluchowo",
-      "league": "Poland III Liga, Group 2",
-      "tip": "Over 2.5 Goals",
+      "match": "Uzbekistan 🆚 Uruguay",
+      "league": "Int. Friendly Games",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.27,
-      "time": "10:00",
-      "status": "won",
+      "time": "12:45",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Monori SE 🆚 Martfui Lse",
-      "league": "Hungary NB III",
-      "tip": "Home Wins",
+      "match": "Sao Tome 🆚 Malawi",
+      "league": "Int. World Cup, Qualification CAF",
+      "tip": "Over 0.5 Goals",
       "odds": 1.21,
-      "time": "11:00",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
