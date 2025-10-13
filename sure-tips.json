@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "San Marino 🆚 Cyprus",
-      "league": "Int. World Cup Qual. UEFA",
-      "tip": "Home or Away",
+      "match": "Cape Verde 🆚 Eswatini",
+      "league": "Int. World Cup Qual. CAF",
+      "tip": "Home First Goal",
       "odds": 1.15,
-      "time": "13:00",
-      "status": "won",
+      "time": "16:00",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Zambia 🆚 Niger",
-      "league": "Int. World Cup Qual. UEFA",
-      "tip": "Over 1.5 Goals",
+      "match": "Lesotho 🆚 Zimbabwe",
+      "league": "Int. World Cup Qual. CAF",
+      "tip": "Over 0.5 Goals",
       "odds": 1.15,
-      "time": "13:00",
-      "status": "lost",
+      "time": "16:00",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Brest 🆚 FC Saint Lo Manche",
-      "league": "France U19 National",
+      "match": "Mauritius 🆚 Libya",
+      "league": "Int. World Cup Qual. CAF",
       "tip": "Home or Away",
       "odds": 1.15,
-      "time": "13:00",
-      "status": "won",
+      "time": "16:00",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
