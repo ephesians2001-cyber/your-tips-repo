@@ -2,57 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
       {
-      "match": "Shahrdari 🆚 Mes Shahr-e Babak",
-      "league": "Iran Azadegan League",
-      "tip": "Over 0.5 Goals",
+      "match": "Italy 🆚 Israel",
+      "league": "Int. World Cup Quali UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.18,
-      "time": "11:30",
-      "status": "won",
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "South Sudan 🆚 Togo",
-      "league": "Int. World Cup Qualification CAF",
-      "tip": "Under 3.5 Goals",
+      "match": "Portugal 🆚 Hungary",
+      "league": "Int. World Cup Quali UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "12:00",
-      "status": "won",
+      "time": "18:45",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Santa Clara 🆚 CD Estoril Praia U23",
-      "league": "Portugal U23 Liga Revelacao",
-      "tip": "Home or Away",
+      "match": "Turkey 🆚 Georgia",
+      "league": "Int. World Cup Quali UEFA",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.25,
       "time": "12:00",
       "status": "lost",
-      "createdAt": "2024-01-15T11:30:00Z"
-    },
-     {
-      "match": "Metalist Kharkiv 🆚 Nyva Ternopil",
-      "league": "Ukraine Persha Liga",
-      "tip": "Home or Away",
-      "odds": 1.22,
-      "time": "12:15",
-      "status": "won",
-      "createdAt": "2024-01-15T10:00:00Z"
-    },
-    {
-      "match": "Uzbekistan 🆚 Uruguay",
-      "league": "Int. Friendly Games",
-      "tip": "Away Over 0.5 Goals",
-      "odds": 1.27,
-      "time": "12:45",
-      "status": "won",
-      "createdAt": "2024-01-14T09:15:00Z"
-    },
-    {
-      "match": "Sao Tome 🆚 Malawi",
-      "league": "Int. World Cup, Qualification CAF",
-      "tip": "Over 0.5 Goals",
-      "odds": 1.21,
-      "time": "13:00",
-      "status": "won",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
