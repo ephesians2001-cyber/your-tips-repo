@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Cape Verde 🆚 Eswatini",
+      "match": "South Africa 🆚 Rwanda",
       "league": "Int. World Cup Qual. CAF",
       "tip": "Home First Goal",
       "odds": 1.15,
       "time": "16:00",
-      "status": "won",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Lesotho 🆚 Zimbabwe",
-      "league": "Int. World Cup Qual. CAF",
-      "tip": "Over 0.5 Goals",
+      "match": "Norway 🆚 New Zealand",
+      "league": "Int. Friendly Games",
+      "tip": "Home or Draw",
       "odds": 1.15,
       "time": "16:00",
-      "status": "won",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Mauritius 🆚 Libya",
+      "match": "Kosovo 🆚 San Marino",
       "league": "Int. World Cup Qual. CAF",
-      "tip": "Home or Away",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
       "time": "16:00",
-      "status": "lost",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
