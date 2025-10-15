@@ -2,27 +2,27 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
       {
-      "match": "Italy 🆚 Israel",
-      "league": "Int. World Cup Quali UEFA",
-      "tip": "Over 1.5 Goals",
+      "match": "FK Kukesi 🆚 Terbuni Puke",
+      "league": "Albania Kupa e Shqiperise",
+      "tip": "Home Wins",
       "odds": 1.18,
-      "time": "18:45",
+      "time": "11:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Portugal 🆚 Hungary",
-      "league": "Int. World Cup Quali UEFA",
-      "tip": "Over 1.5 Goals",
+      "match": "FK Vora 🆚 KF Maliqi",
+      "league": "Albania Kupa e Shqiperise",
+      "tip": "wins",
       "odds": 1.25,
-      "time": "18:45",
+      "time": "11:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Turkey 🆚 Georgia",
-      "league": "Int. World Cup Quali UEFA",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Sabail FK 🆚 Zaqatala FK",
+      "league": "Azerbaijan First Division",
+      "tip": "Home or Away",
       "odds": 1.25,
       "time": "12:00",
       "status": "pending",
