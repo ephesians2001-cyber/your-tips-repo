@@ -1,14 +1,32 @@
 {
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
+      {
+      "match": "FK Kukesi 🆚 Terbuni Puke",
+      "league": "Albania Kupa e Shqiperise",
+      "tip": "Home Wins",
+      "odds": 1.18,
+      "time": "11:30",
+      "status": "pending",
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
     {
-      "match": "APP_UPDATE",
-      "league": "URGENT",
-      "tip": "Please update your app to the latest version for new features & bug fixes.",
-      "odds": 0.00,
-      "time": "00:00",
-      "status": "update_required",
-      "createdAt": "2025-10-15T03:23:00Z"
+      "match": "FK Vora 🆚 KF Maliqi",
+      "league": "Albania Kupa e Shqiperise",
+      "tip": "wins",
+      "odds": 1.25,
+      "time": "11:30",
+      "status": "pending",
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Sabail FK 🆚 Zaqatala FK",
+      "league": "Azerbaijan First Division",
+      "tip": "Home or Away",
+      "odds": 1.25,
+      "time": "12:00",
+      "status": "pending",
+      "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
 }
