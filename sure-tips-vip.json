@@ -1,1 +1,14 @@
-
+{
+  "lastUpdated": "2024-01-15T14:30:00Z",
+  "tips": [
+    {
+      "match": "APP_UPDATE",
+      "league": "URGENT",
+      "tip": "Please update your app to the latest version for new features and bug fixes.",
+      "odds": 0.00,
+      "time": "00:00",
+      "status": "update_required",
+      "createdAt": "2025-10-15T03:23:00Z"
+    }
+  ]
+}
