@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Updf FC 🆚 Maroons FC",
-      "league": "Uganda Premier League",
+      "match": "FC Kfar Saba 🆚 Shimshon Tel Aviv",
+      "league": "Israel Liga Alef",
       "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "13:00",
-      "status": "won",
+      "time": "16:30",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FC Slutsk 🆚 Neman Grodno",
-      "league": "Belarus Vysshaya Liga",
-      "tip": "Away Over 0.5",
+      "match": "Follo U19 🆚 Ullensaker/Kisa U19",
+      "league": "Norway Amateur U19 Leagues",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "12:30",
-      "status": "won",
+      "time": "16:30",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Leopards SC 🆚 Bandari FC",
-      "league": "Kenya Premier LeagueF",
-      "tip": "Under 3.5 Goals",
+      "match": "FC Chernomorets 🆚 FC Kuban Pavlovskaya",
+      "league": "Russia Russian Cup",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.15,
-      "time": "13:00",
-      "status": "won",
+      "time": "17:00",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
