@@ -1,32 +1,32 @@
 {
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
-      {
-      "match": "MSK Zilina 🆚 Zemplin Michalovce",
-      "league": "Slovakia U19 Liga",
-      "tip": "Home or Away",
-      "odds": 1.18,
-      "time": "12:00",
-      "status": "won",
+    {
+      "match": "El Qanah 🆚 El Entag El Harby",
+      "league": "Egypt 2, Division A",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.15,
+      "time": "12:30",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Songwa Border Utd 🆚 Chitipa Utd",
-      "league": "Malawi Super League",
-      "tip": "Home or Away",
-      "odds": 1.19,
-      "time": "12:00",
-      "status": "won",
+      "match": "Torpedo Moscow 🆚 Veles Moscow",
+      "league": "Russia Russian Cup",
+      "tip": "Home or Draw",
+      "odds": 1.18,
+      "time": "14:30",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Ironi Modiin 🆚 Maccabi Petech",
-      "league": "Israel National League",
-      "tip": "Maccabi Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "16:00",
-      "status": "won",
-      "createdAt": "2024-01-15T11:30:00Z"
+      "match": "FC Beita Yavne 🆚 Maccabi Ironi",
+      "league": "Israel Liga Alef",
+      "tip": "Home or Away",
+      "odds": 1.27,
+      "time": "16:30 ",
+      "status": "pending",
+      "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
 }
