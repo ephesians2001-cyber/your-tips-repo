@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "El Qanah 🆚 El Entag El Harby",
-      "league": "Egypt 2, Division A",
-      "tip": "Over 0.5 Goals",
+      "match": "Manjung City 🆚 Selangor FC II",
+      "league": "Malaysia Liga A1",
+      "tip": "Away wins",
       "odds": 1.15,
-      "time": "12:30",
-      "status": "won",
+      "time": "12:45",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Torpedo Moscow 🆚 Veles Moscow",
-      "league": "Russia Russian Cup",
-      "tip": "Home or Draw",
-      "odds": 1.18,
-      "time": "14:30",
-      "status": "won",
+      "match": "AL Bataeh (UAE) 🆚 AL Wahda FC (UAE)",
+      "league": "United Arab Emirates",
+      "tip": "Away Over 0.5 Goals",
+      "odds": 1.14,
+      "time": "13:05",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
       "match": "FC Beita Yavne 🆚 Maccabi Ironi",
-      "league": "Israel Liga Alef",
-      "tip": "Home or Away",
+      "league": "United Arab Emirates Ara.",
+      "tip": "Over 1.5 Goals",
       "odds": 1.27,
-      "time": "16:30 ",
-      "status": "won",
+      "time": "13:05 ",
+      "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
