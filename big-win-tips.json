@@ -2,31 +2,13 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "PSG 🆚 Strasbourg",
-      "league": "Football – France - Ligue1",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.25,
-      "time": "18:45",
-      "status": "Pending",
-      "createdAt": "2024-01-15T10:00:00Z"
-    },
-    {
-      "match": "FC Krasnodar 🆚 FK Rostov",
-      "league": "Russia MFL, Division A",
-      "tip": "Home or Away",
-      "odds": 1.18,
-      "time": "12:00",
-      "status": "pending",
-      "createdAt": "2024-01-14T09:15:00Z"
-    },
-    {
-      "match": "NK Sesvete 🆚 NK Hrvace",
-      "league": "Croatia Prva NL",
-      "tip": "Home or Away",
-      "odds": 1.25,
-      "time": "13:00",
-      "status": "pending",
-      "createdAt": "2024-01-15T11:30:00Z"
+      "match": "APP_UPDATE",
+      "league": "URGENT",
+      "tip": "Please update your app to the latest version for new features & bug fixes.",
+      "odds": 0.00,
+      "time": "00:00",
+      "status": "update_required",
+      "createdAt": "2025-10-15T03:23:00Z"
     }
   ]
 }
