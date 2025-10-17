@@ -2,31 +2,13 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "JS Djidjel 🆚 MO Constantine",
-      "league": "Algeria League 2",
-      "tip": "Home or Away",
-      "odds": 1.15,
-      "time": "14:00",
-      "status": "pending",
-      "createdAt": "2024-01-15T10:00:00Z"
-    },
-    {
-      "match": "WA Tlemcen 🆚 JSM Tiaret",
-      "league": "Algeria Ligue 2",
-      "tip": "Under 3.5 Goals",
-      "odds": 1.19,
-      "time": "14:00",
-      "status": "pending",
-      "createdAt": "2024-01-14T09:15:00Z"
-    },
-    {
-      "match": "FC Shirak Gyumri 🆚 FC Alashkert",
-      "league": "Armania Premier League",
-      "tip": "Away Over 0.5 Goals",
-      "odds": 1.19,
-      "time": "15:00",
-      "status": "pending",
-      "createdAt": "2024-01-15T11:30:00Z"
+      "match": "APP_UPDATE",
+      "league": "URGENT",
+      "tip": "Please update your app to the latest version for new features & bug fixes.",
+      "odds": 0.00,
+      "time": "00:00",
+      "status": "update_required",
+      "createdAt": "2025-10-15T03:23:00Z"
     }
   ]
 }
