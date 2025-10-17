@@ -2,30 +2,30 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "FC Kfar Saba 🆚 Shimshon Tel Aviv",
-      "league": "Israel Liga Alef",
-      "tip": "Over 1.5 Goals",
+      "match": "JS Djidjel 🆚 MO Constantine",
+      "league": "Algeria League 2",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "16:30",
-      "status": "won",
+      "time": "14:00",
+      "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Follo U19 🆚 Ullensaker/Kisa U19",
-      "league": "Norway Amateur U19 Leagues",
-      "tip": "Home or Away",
-      "odds": 1.15,
-      "time": "16:30",
-      "status": "won",
+      "match": "WA Tlemcen 🆚 JSM Tiaret",
+      "league": "Algeria Ligue 2",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.19,
+      "time": "14:00",
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Chernomorets 🆚 FC Kuban Pavlovskaya",
-      "league": "Russia Russian Cup",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.15,
-      "time": "17:00",
-      "status": "won",
+      "match": "FC Shirak Gyumri 🆚 FC Alashkert",
+      "league": "Armania Premier League",
+      "tip": "Away Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "15:00",
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
