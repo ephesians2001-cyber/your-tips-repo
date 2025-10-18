@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "JS Djidjel 🆚 MO Constantine",
-      "league": "Algeria League 2",
-      "tip": "Home or Away",
+      "match": "Grobinas SC 🆚 SK Super Nova",
+      "league": "Latvia - Virsliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.15,
-      "time": "14:00",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "WA Tlemcen 🆚 JSM Tiaret",
-      "league": "Algeria Ligue 2",
-      "tip": "Under 3.5 Goals",
+      "match": "Ekenas Idrottsforening 🆚 HJK Klubi 04",
+      "league": "Finland Ykkosliiga",
+      "tip": "Under 2.5 Goals",
       "odds": 1.19,
-      "time": "14:00",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Shirak Gyumri 🆚 FC Alashkert",
-      "league": "Armania Premier League",
-      "tip": "Away Over 0.5 Goals",
+      "match": "Motala AIF 🆚 Vanersborgs FK",
+      "league": "Sweden – Division 2",
+      "tip": "Home or Away",
       "odds": 1.19,
-      "time": "15:00",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
