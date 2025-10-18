@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Bayern Munich 🆚 Borussia Dortmund",
-      "league": "Germany Bundesliga",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.32,
-      "time": "18:10",
+      "match": "Panegialios FC 🆚 Thyella Patras",
+      "league": "Germany Ethniki",
+      "tip": "Home or Away",
+      "odds": 1.19,
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Holyhead Hotspur 🆚 Airbush UK Broughton",
-      "league": "Wales – FAW Welsh Cup",
-      "tip": "Over 1.5",
+      "match": "SG Finnentrop 🆚 Rot Weiss Ahlen",
+      "league": "Germany Amateur – Oberliga Westfalen",
+      "tip": "Over 2.5",
       "odds": 1.23,
-      "time": "18:10",
+      "time": "13:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Dynamo 🆚 FK Ryazan",
-      "league": "Russia – Liga, Division B, Group 3",
-      "tip": "Home or Draw",
+      "match": "Lusitania FC 🆚 Gd Resende",
+      "league": "Portugal Taca de Portugal",
+      "tip": "Home Wins",
       "odds": 1.19,
-      "time": "18:10",
+      "time": "14:10",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
