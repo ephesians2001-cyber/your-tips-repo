@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Manjung City 🆚 Selangor FC II",
-      "league": "Malaysia Liga A1",
-      "tip": "Away wins",
+      "match": "RB Leipzig 🆚 Hamburg",
+      "league": "Germany Bundesliga",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "12:45",
+      "time": "13:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AL Bataeh (UAE) 🆚 AL Wahda FC (UAE)",
-      "league": "United Arab Emirates",
-      "tip": "Away Over 0.5 Goals",
+      "match": "BSC Young Boys  🆚 FC Sion u19",
+      "league": "Switzerland – U19 Elite",
+      "tip": "Home or Away",
       "odds": 1.14,
-      "time": "13:05",
+      "time": "11:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Beita Yavne 🆚 Maccabi Ironi",
-      "league": "United Arab Emirates Ara.",
-      "tip": "Over 1.5 Goals",
+      "match": "PK-35 Vantaa 🆚 HJK Helsinki",
+      "league": "Finland Kansallinen Liiga, Women.",
+      "tip": "Away Wins",
       "odds": 1.27,
-      "time": "13:05 ",
+      "time": "11:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
