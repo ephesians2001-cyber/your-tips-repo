@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Barcelona 🆚 Girona",
-      "league": "Span LaLiga",
+      "match": "Lokomotiv Leipzig 🆚 BSG Chemie Liepzig",
+      "league": "Germany Amateur",
       "tip": "Home First Goal",
-      "odds": 1.32,
-      "time": "14:15",
+      "odds": 1.27,
+      "time": "12:15",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Nice 🆚 Lyon",
-      "league": "France Ligue 1",
-      "tip": "Handicap 0:2",
+      "match": "FC Astana 🆚 FC Aktobe",
+      "league": "Kazakhstan – Premier League",
+      "tip": "Home or Draw",
       "odds": 1.25,
-      "time": "18:00",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Fulham 🆚 Arsenal",
-      "league": "England Premier League",
-      "tip": "Away 0.5 Goals",
+      "match": "LR Vicenza 🆚 US Albinoleffe",
+      "league": "Italy Serie C, Group A",
+      "tip": "Home 0.5 Goals",
       "odds": 1.19,
-      "time": "18:10",
+      "time": "12:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
