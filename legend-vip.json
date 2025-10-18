@@ -2,31 +2,31 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Manjung City 🆚 Selangor FC II",
-      "league": "Malaysia Liga A1",
-      "tip": "Away wins",
-      "odds": 1.15,
-      "time": "12:45",
+      "match": "Bayern Munich 🆚 Borussia Dortmund",
+      "league": "Germany Bundesliga",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.32,
+      "time": "18:10",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AL Bataeh (UAE) 🆚 AL Wahda FC (UAE)",
-      "league": "United Arab Emirates",
-      "tip": "Away Over 0.5 Goals",
-      "odds": 1.14,
-      "time": "13:05",
+      "match": "Holyhead Hotspur 🆚 Airbush UK Broughton",
+      "league": "Wales – FAW Welsh Cup",
+      "tip": "Over 1.5",
+      "odds": 1.23,
+      "time": "18:10",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Beita Yavne 🆚 Maccabi Ironi",
-      "league": "United Arab Emirates Ara.",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.27,
-      "time": "13:05 ",
+      "match": "FC Dynamo 🆚 FK Ryazan",
+      "league": "Russia – Liga, Division B, Group 3",
+      "tip": "Home or Draw",
+      "odds": 1.19,
+      "time": "18:10",
       "status": "pending",
-      "createdAt": "2024-01-13T11:30:00Z"
+      "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
 }
