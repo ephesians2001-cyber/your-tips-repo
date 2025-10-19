@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Lokomotiv Leipzig 🆚 BSG Chemie Liepzig",
-      "league": "Germany Amateur",
-      "tip": "Home First Goal",
-      "odds": 1.27,
-      "time": "12:15",
+      "match": "Hammarby Talang 🆚 karibergs Bk",
+      "league": "Sweden – Ettan, Norra",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.18,
+      "time": "17:15",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FC Astana 🆚 FC Aktobe",
-      "league": "Kazakhstan – Premier League",
-      "tip": "Home or Draw",
+      "match": "Beitar Jerusalem 🆚 FC Ashdod",
+      "league": "Israel – Premier League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
       "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "LR Vicenza 🆚 US Albinoleffe",
-      "league": "Italy Serie C, Group A",
-      "tip": "Home 0.5 Goals",
+      "match": "Al Aqaba 🆚 Om Al Qutain",
+      "league": "Jordan – Jordan Cup",
+      "tip": "Home or Away",
       "odds": 1.19,
-      "time": "12:30",
+      "time": "17:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
