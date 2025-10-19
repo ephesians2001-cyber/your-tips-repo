@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Panegialios FC 🆚 Thyella Patras",
-      "league": "Germany Ethniki",
-      "tip": "Home or Away",
+      "match": "Al Ahli Saudi 🆚 Al Gharafa SC",
+      "league": "Int. Clubs – AFC Champions League Elite",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
       "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "SG Finnentrop 🆚 Rot Weiss Ahlen",
-      "league": "Germany Amateur – Oberliga Westfalen",
-      "tip": "Over 2.5",
-      "odds": 1.23,
-      "time": "13:30",
+      "match": "Jong PSV 🆚 ADO Den Hang",
+      "league": "Natherlands - Eerste Divisie",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.16,
+      "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Lusitania FC 🆚 Gd Resende",
-      "league": "Portugal Taca de Portugal",
-      "tip": "Home Wins",
+      "match": "Tigres FC  🆚 Bogota FC",
+      "league": "Colombia – Primera B",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "14:10",
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
