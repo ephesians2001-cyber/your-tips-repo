@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Como 1907 🆚 Juventus",
+      "match": "US Cremonese 🆚 Udinese",
       "league": "Italy Serie A",
-      "tip": "Away Over 0.5 Goals",
-      "odds": 1.21,
-      "time": "10:30",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.41,
+      "time": "118:45",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "RC Lens 🆚 Paris FC",
-      "league": "France League 1",
-      "tip": "Home or Draw",
-      "odds": 1.29,
-      "time": "13:00",
+      "match": "Alaves 🆚 Valencia",
+      "league": "Spain - LaLiga",
+      "tip": "Home 0.5 Goals",
+      "odds": 1.35,
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Liverpool 🆚 Man Utd",
-      "league": "England Premier league",
+      "match": "Bashundhara Kings  🆚 Fortis FC",
+      "league": "Bangladesh – Premier League",
       "tip": "Over 1.5 Goals",
       "odds": 1.22,
-      "time": "15:30",
+      "time": "11:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
