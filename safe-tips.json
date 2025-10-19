@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "RB Leipzig 🆚 Hamburg",
-      "league": "Germany Bundesliga",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.15,
-      "time": "13:30",
+      "match": "Bournemouth U21 🆚 Queens Park U21",
+      "league": "England Amateur U21 Pro.",
+      "tip": "Home or Away",
+      "odds": 1.16,
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "BSC Young Boys  🆚 FC Sion u19",
-      "league": "Switzerland – U19 Elite",
-      "tip": "Home or Away",
-      "odds": 1.14,
-      "time": "11:30",
+      "match": "Crewe Alexandra  🆚 Sheffield Wednesday U21",
+      "league": " England Amateur U21 Pro",
+      "tip": "Over 2.5 Goals",
+      "odds": 1.40,
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "PK-35 Vantaa 🆚 HJK Helsinki",
-      "league": "Finland Kansallinen Liiga, Women.",
-      "tip": "Away Wins",
-      "odds": 1.27,
-      "time": "11:00 ",
+      "match": "Viettel FC 🆚 SHB Da Nang",
+      "league": "Vietnam – V- League 1.",
+      "tip": "Home or Away",
+      "odds": 1.15,
+      "time": "12:50 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
