@@ -2,27 +2,27 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "US Cremonese 🆚 Udinese",
-      "league": "Italy Serie A",
-      "tip": "Over 1.5 Goals",
+      "match": "Barcelona 🆚 Olympiacos",
+      "league": "Int. UEFA champions league",
+      "tip": "Home Wins",
       "odds": 1.41,
-      "time": "118:45",
+      "time": "16:45",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Alaves 🆚 Valencia",
-      "league": "Spain - LaLiga",
+      "match": "Arsenal  🆚 Atletico Madrid",
+      "league": "Int. UEFA champions league",
       "tip": "Home 0.5 Goals",
-      "odds": 1.35,
+      "odds": 1.21,
       "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bashundhara Kings  🆚 Fortis FC",
-      "league": "Bangladesh – Premier League",
-      "tip": "Over 1.5 Goals",
+      "match": "Bayer Leverkusen  🆚 PSG",
+      "league": "Int. UEFA champions league",
+      "tip": "Away 0.5 Goals",
       "odds": 1.22,
       "time": "11:30",
       "status": "pending",
