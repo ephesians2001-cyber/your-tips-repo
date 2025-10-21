@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Bournemouth U21 🆚 Queens Park U21",
-      "league": "England Amateur U21 Pro.",
-      "tip": "Home or Away",
+      "match": "Copenhagen 🆚 Borussia Dortmund",
+      "league": "Int. UEFA champions league",
+      "tip": "Under 4.5 Goals",
       "odds": 1.16,
-      "time": "12:00",
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Crewe Alexandra  🆚 Sheffield Wednesday U21",
-      "league": " England Amateur U21 Pro",
-      "tip": "Over 2.5 Goals",
-      "odds": 1.40,
-      "time": "12:00",
+      "match": "Newcastle  🆚 Benfica",
+      "league": "Int. UEFA champions league",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.24,
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Viettel FC 🆚 SHB Da Nang",
-      "league": "Vietnam – V- League 1.",
-      "tip": "Home or Away",
+      "match": "Union Gilloise 🆚 Inter",
+      "league": "Int. UEFA champions League",
+      "tip": " Away 0.5 Goals",
       "odds": 1.15,
-      "time": "12:50 ",
+      "time": "19:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
