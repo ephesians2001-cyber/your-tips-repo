@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Hammarby Talang 🆚 karibergs Bk",
-      "league": "Sweden – Ettan, Norra",
-      "tip": "Over 1.5 Goals",
+      "match": "Big Bullets 🆚 Malawi Armed Forces",
+      "league": "Malawi – Super League",
+      "tip": "Home or Draw",
       "odds": 1.18,
-      "time": "17:15",
+      "time": "12:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Beitar Jerusalem 🆚 FC Ashdod",
-      "league": "Israel – Premier League",
+      "match": "Pyramids FC 🆚 Pharco FC",
+      "league": "Egypt – Premier League",
       "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "12:00",
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Al Aqaba 🆚 Om Al Qutain",
-      "league": "Jordan – Jordan Cup",
+      "match": "FC Dila Gori 🆚 FC Gagra",
+      "league": "Georgia – Erovnuli Liga",
       "tip": "Home or Away",
       "odds": 1.19,
-      "time": "17:00",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
