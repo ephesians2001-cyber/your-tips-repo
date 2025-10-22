@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Barcelona 🆚 Olympiacos",
+      "match": "Athletic Bilbao 🆚 Qarabag",
       "league": "Int. UEFA champions league",
-      "tip": "Home Wins",
+      "tip": "over 1.5 Goals",
       "odds": 1.41,
       "time": "16:45",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Arsenal  🆚 Atletico Madrid",
+      "match": "Galatasarey 🆚 Bodoe/Glimt",
       "league": "Int. UEFA champions league",
-      "tip": "Home 0.5 Goals",
-      "odds": 1.21,
-      "time": "19:00",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.19,
+      "time": "16:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bayer Leverkusen  🆚 PSG",
+      "match": "Atalanta  🆚 Slavia Prague",
       "league": "Int. UEFA champions league",
-      "tip": "Away 0.5 Goals",
+      "tip": "Over 1.5 Goals",
       "odds": 1.22,
-      "time": "11:30",
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
