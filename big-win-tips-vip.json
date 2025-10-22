@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Athletic Bilbao 🆚 Qarabag",
-      "league": "Int. UEFA champions league",
-      "tip": "over 1.5 Goals",
-      "odds": 1.41,
-      "time": "16:45",
+      "match": "Welwalu Adigrat 🆚 Fasil Kenema SC",
+      "league": "Ethioopia – Premier League",
+      "tip": "Away or Draw",
+      "odds": 1.22,
+      "time": "12:00",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Galatasarey 🆚 Bodoe/Glimt",
-      "league": "Int. UEFA champions league",
-      "tip": "Over 1.5 Goals",
+      "match": "Bangkok Utd 🆚 Loin City Sailors",
+      "league": "Int. Clubs – AFC Champions League Two",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "16:45",
+      "time": "12:15",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Atalanta  🆚 Slavia Prague",
-      "league": "Int. UEFA champions league",
+      "match": "Cong An Ha Noi  🆚 Macarthur FC",
+      "league": "Int. Club – AFS Champions League Two",
       "tip": "Over 1.5 Goals",
       "odds": 1.22,
-      "time": "19:00",
+      "time": "12:15",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
