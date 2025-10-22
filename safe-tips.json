@@ -2,31 +2,31 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Persib Bandung  🆚 Selangor FC",
-      "league": "Int. Club – AFS Champions League Two",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.16,
-      "time": "15:00",
+      "match": "Xorazm FK  🆚 Pakhtakor",
+      "league": "Uzbekistan - Superliga",
+      "tip": "Home or Away",
+      "odds": 1.19,
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Abo Qair  🆚 Maleyat Kafr El Zayat",
-      "league": "Egypt – 2 Division A",
-      "tip": "Home or Away",
-      "odds": 1.24,
-      "time": "11:00",
+      "match": "JK Tallinna 🆚 Tallinna FC Flora U21",
+      "league": "Estonia - Esilliga",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.19,
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "El Entag El 🆚 El Daklyeh",
-      "league": "Egypt – 2 Division A",
-      "tip": " Over 1.5 Goals",
-      "odds": 1.15,
-      "time": "11:00 ",
+      "match": "FC Tallinn 🆚 FC Nomme Utd",
+      "league": "Estonia - Esilliga",
+      "tip": "Away Wins",
+      "odds": 1.19,
+      "time": "15:00",
       "status": "pending",
-      "createdAt": "2024-01-13T11:30:00Z"
+      "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
 }
