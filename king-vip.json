@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Big Bullets 🆚 Malawi Armed Forces",
-      "league": "Malawi – Super League",
-      "tip": "Home or Draw",
-      "odds": 1.18,
-      "time": "12:30",
+      "match": "Sporting 🆚 Marseille",
+      "league": "Int. Clubs – UEFA Champions League",
+      "tip": "Away Over 0.5 Goals",
+      "odds": 1.30,
+      "time": "19:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Pyramids FC 🆚 Pharco FC",
-      "league": "Egypt – Premier League",
+      "match": "FC STK 1914 🆚 Spartak Trnava",
+      "league": "Slovakia – Slovensky Pohar",
       "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "14:00",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Dila Gori 🆚 FC Gagra",
-      "league": "Georgia – Erovnuli Liga",
+      "match": "Bayern Munich 🆚 Club Brugge",
+      "league": "Int. Youth – UEFA Youth League",
       "tip": "Home or Away",
       "odds": 1.19,
-      "time": "15:00",
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
