@@ -2,31 +2,31 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Xorazm FK  🆚 Pakhtakor",
-      "league": "Uzbekistan - Superliga",
-      "tip": "Home or Away",
-      "odds": 1.19,
-      "time": "13:00",
+      "match": "Alashkert  🆚 Van Charentsavan",
+      "league": "Armenia – Premier League",
+      "tip": "Home or Draw",
+      "odds": 1.16,
+      "time": "11:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "JK Tallinna 🆚 Tallinna FC Flora U21",
-      "league": "Estonia - Esilliga",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.19,
-      "time": "14:00",
+      "match": "Port FC  🆚 Muang Thong Utd",
+      "league": "Thailand – Thai League1",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.14,
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Tallinn 🆚 FC Nomme Utd",
-      "league": "Estonia - Esilliga",
-      "tip": "Away Wins",
-      "odds": 1.19,
-      "time": "15:00",
+      "match": "Inainte Modelu 🆚 FC Voluntari II",
+      "league": "Romania Liag 3",
+      "tip": " Home Wins",
+      "odds": 1.15,
+      "time": "12:00 ",
       "status": "pending",
-      "createdAt": "2024-01-15T11:30:00Z"
+      "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
 }
