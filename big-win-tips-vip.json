@@ -2,29 +2,29 @@
   "lastUpdated": "2024-01-15T14:30:00Z",
   "tips": [
     {
-      "match": "Welwalu Adigrat 🆚 Fasil Kenema SC",
-      "league": "Ethioopia – Premier League",
-      "tip": "Away or Draw",
+      "match": "Werder Bremen 🆚 Union Berlin",
+      "league": "Germany Bunderliga",
+      "tip": "Over 1.5 Goals",
       "odds": 1.22,
-      "time": "12:00",
+      "time": "18:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Bangkok Utd 🆚 Loin City Sailors",
-      "league": "Int. Clubs – AFC Champions League Two",
-      "tip": "Home Over 0.5 Goals",
+      "match": "AC Milan 🆚 SC Pisa",
+      "league": "Italy Serie A",
+      "tip": "Home or Away",
       "odds": 1.19,
-      "time": "12:15",
+      "time": "18:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Cong An Ha Noi  🆚 Macarthur FC",
-      "league": "Int. Club – AFS Champions League Two",
+      "match": "Paris FC  🆚 Nantes",
+      "league": "France League 1",
       "tip": "Over 1.5 Goals",
       "odds": 1.22,
-      "time": "12:15",
+      "time": "18:45",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
