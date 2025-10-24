@@ -1,32 +1,32 @@
 {
-  "lastUpdated": "2025-01-15T14:30:00Z",
+  "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Alashkert  🆚 Van Charentsavan",
-      "league": "Armenia – Premier League",
-      "tip": "Home or Draw",
+      "match": "Hoenefoss BK  🆚 Asker Fotball",
+      "league": "Norway – 2nd Division Group 2",
+      "tip": "Home or Away",
       "odds": 1.16,
-      "time": "11:30",
+      "time": "11:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Port FC  🆚 Muang Thong Utd",
-      "league": "Thailand – Thai League1",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.14,
+      "match": "PFC Shurtan  🆚 FK Neftchi Fargona",
+      "league": "Uzbekistan - Superliga",
+      "tip": "Over 1.5 Goal",
+      "odds": 1.26,
       "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
       "match": "Inainte Modelu 🆚 FC Voluntari II",
-      "league": "Romania Liag 3",
+      "league": "Denmark – 2nd Division",
       "tip": " Home Wins",
       "odds": 1.15,
       "time": "12:00 ",
       "status": "pending",
-      "createdAt": "2025-01-13T11:30:00Z"
+      "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
 }
