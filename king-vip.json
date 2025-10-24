@@ -1,30 +1,30 @@
 {
-  "lastUpdated": "2024-01-15T14:30:00Z",
+  "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Mladost Zdralovi 🆚 HNK Croatia",
-      "league": "Croatia – Druga NL",
-      "tip": "Home Wins",
-      "odds": 1.24,
-      "time": "13:00",
-      "status": "pending",
+      "match": "Borussia M’glabach 🆚 Bayern Munich",
+      "league": "Germany Bundersliga",
+      "tip": "Home or Away",
+      "odds": 1.22,
+      "time": "13:20",
+      "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "PFC Nyva Ternopil 🆚 FC Podillya",
-      "league": "Ukraine – Persha Liga",
-      "tip": "Home or Away",
+      "match": "Chelsea 🆚 Sunderland AFC",
+      "league": "England Premier League",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "13:30",
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Azam FC 🆚 KMKM",
-      "league": "Int. Clubs – CAF Confederations Cup",
-      "tip": "Home Wins",
-      "odds": 1.19,
-      "time": "14:00",
+      "match": "Brest  🆚 PSG",
+      "league": "France League 1",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.22,
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
