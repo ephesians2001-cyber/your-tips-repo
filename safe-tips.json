@@ -2,27 +2,27 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Hoenefoss BK  🆚 Asker Fotball",
-      "league": "Norway – 2nd Division Group 2",
-      "tip": "Home or Away",
+      "match": "Bayer Leverkusen  🆚 Freiburg",
+      "league": "Germany Bundersliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.16,
-      "time": "11:00",
+      "time": "14:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "PFC Shurtan  🆚 FK Neftchi Fargona",
-      "league": "Uzbekistan - Superliga",
-      "tip": "Over 1.5 Goal",
+      "match": "Everton  🆚 Tottenham",
+      "league": "England Premium League",
+      "tip": "Home over 0.5 Goals",
       "odds": 1.26,
       "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Inainte Modelu 🆚 FC Voluntari II",
-      "league": "Denmark – 2nd Division",
-      "tip": " Home Wins",
+      "match": "Sassuolo 🆚 Roma",
+      "league": "Italy Serie A",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.15,
       "time": "12:00 ",
       "status": "pending",
