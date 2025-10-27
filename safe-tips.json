@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Bayer Leverkusen  🆚 Freiburg",
-      "league": "Germany Bundersliga",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Al-Salmiya SC  🆚 Qadsia SC",
+      "league": "Kuwait – Premier League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "14:30",
+      "time": "15:45",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Everton  🆚 Tottenham",
-      "league": "England Premium League",
-      "tip": "Home over 0.5 Goals",
+      "match": "Seinajeon JK  🆚 Kuopion Palloseura",
+      "league": "Finland - Veikkausliiga",
+      "tip": "Over 1.5 Goals",
       "odds": 1.26,
-      "time": "12:00",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Sassuolo 🆚 Roma",
-      "league": "Italy Serie A",
-      "tip": "Away Over 0.5 Goals",
+      "match": "Samsunspor 🆚 Caykur Rizespor",
+      "league": "Turkiye – Super Lig",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.15,
-      "time": "12:00 ",
+      "time": "17:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
