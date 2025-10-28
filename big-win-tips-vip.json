@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Betis 🆚 Atletico Madrid",
-      "league": "Spain - LaLiga",
-      "tip": "Away Over 1.5 Goals",
+      "match": "US Lecce 🆚 Napoli",
+      "league": "Italy – Serie A",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.22,
-      "time": "20:00",
+      "time": "17:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
       "match": "Watford U21 🆚 Swansea City U21",
-      "league": "England Amateur – U21",
-      "tip": "Home or Away",
+      "league": "Italy Coppa Italia Primavera",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "14:00",
+      "time": "11:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Dinamo Tbilisi  🆚 Kolkheti-1913",
-      "league": "George – Erovnuli Liga",
-      "tip": "Home Wins",
-      "odds": 1.29,
-      "time": "15:00",
+      "match": "Olimpik Mobiuz  🆚 FC Olimpik",
+      "league": "Uzbekistan – Pro Liga",
+      "tip": "Home or Away",
+      "odds": 1.19,
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
