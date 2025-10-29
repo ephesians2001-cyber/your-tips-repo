@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Lorient 🆚 PSG",
-      "league": "France – Ligue 1",
-      "tip": "Over 1.5 Goals",
+      "match": "Tabora Utd 🆚 Simba SC",
+      "league": "Tanzania – Premier League",
+      "tip": "Away or Draw",
       "odds": 1.16,
       "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Metz  🆚 RC Lens",
-      "league": "France – Ligue 1",
-      "tip": "Draw or Away",
-      "odds": 1.26,
-      "time": "18:00",
+      "match": "Esperance Sportive  🆚 CA Bizertin",
+      "league": "Tunisia – Ligue 1",
+      "tip": "Home or Away",
+      "odds": 1.16,
+      "time": "13:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Nice 🆚 Lille",
-      "league": "France – Ligue1",
-      "tip": "Under 4.5 Goals",
+      "match": "Bengaluru FC 🆚 Mohammedan SC",
+      "league": "India Super Cup",
+      "tip": "Home or Away",
       "odds": 1.15,
-      "time": "18:00 ",
+      "time": "14:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
