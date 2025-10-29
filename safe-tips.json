@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Balestier Khalsa II  🆚 Tanjong Pagar Utd",
-      "league": "Singapore – Premier League 2",
-      "tip": "Away Wins",
+      "match": "Lorient 🆚 PSG",
+      "league": "France – Ligue 1",
+      "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "11:30",
+      "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FK Radnik Hadzici  🆚 FK Sarajevo",
-      "league": "Bosnia & Herzegovina – Kup BiH",
-      "tip": "Away Wins",
+      "match": "Metz  🆚 RC Lens",
+      "league": "France – Ligue 1",
+      "tip": "Draw or Away",
       "odds": 1.26,
-      "time": "12:00",
+      "time": "18:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "OFI Crete 🆚 Iraklis Thessaloniki",
-      "league": "Greece – Greece Cup",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Nice 🆚 Lille",
+      "league": "France – Ligue1",
+      "tip": "Under 4.5 Goals",
       "odds": 1.15,
-      "time": "14:00 ",
+      "time": "18:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
