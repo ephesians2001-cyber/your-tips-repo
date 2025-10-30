@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Lech Poznan 🆚 Zaglebie Lubin",
-      "league": "Poland - CLJ",
-      "tip": "Home or Away",
-      "odds": 1.22,
-      "time": "11:00",
+      "match": "Al Hilal SFC 🆚 Al-Shabab FC(SA)",
+      "league": "Saudi Arabia – Saudi Pro League",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.18,
+      "time": "14:50",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "KF Feronikeli 🆚 KF 2 Korriku",
-      "league": "Kosovo – Liga e Pare",
+      "match": "Wa Mostaganem 🆚 RC Arbaa",
+      "league": "Algeria – Ligue 2",
       "tip": "Home or Away",
       "odds": 1.19,
-      "time": "12:00",
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bul FC  🆚 Express FC",
-      "league": "Uganda – Premier League",
-      "tip": "Home or Draw",
+      "match": "NK Brezice  🆚 NK Race",
+      "league": "Slovenia – 3 SNL",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "13:30",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
