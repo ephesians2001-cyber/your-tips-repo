@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Tabora Utd 🆚 Simba SC",
-      "league": "Tanzania – Premier League",
-      "tip": "Away or Draw",
+      "match": "Shanghai Shenhua 🆚 Shenzhen Peng City",
+      "league": "China Super League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "18:00",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Esperance Sportive  🆚 CA Bizertin",
-      "league": "Tunisia – Ligue 1",
-      "tip": "Home or Away",
+      "match": "Persija Jakarta 🆚 PSBS Biak",
+      "league": "Indonesia – Super League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "13:30",
+      "time": "12:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bengaluru FC 🆚 Mohammedan SC",
-      "league": "India Super Cup",
+      "match": "NK Uskok 🆚 NK Dugo Selo",
+      "league": "Croatia – Druga NL",
       "tip": "Home or Away",
       "odds": 1.15,
-      "time": "14:00 ",
+      "time": "13:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
