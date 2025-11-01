@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Shanghai Shenhua 🆚 Shenzhen Peng City",
-      "league": "China Super League",
+      "match": "Read Madrid 🆚 Valencia",
+      "league": "Spain LaLiga",
       "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "12:00",
+      "time": "20:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Persija Jakarta 🆚 PSBS Biak",
-      "league": "Indonesia – Super League",
-      "tip": "Over 1.5 Goals",
+      "match": "Burnley 🆚 Arsenal",
+      "league": "England Premier League",
+      "tip": "Home or Away",
       "odds": 1.16,
-      "time": "12:00",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "NK Uskok 🆚 NK Dugo Selo",
-      "league": "Croatia – Druga NL",
-      "tip": "Home or Away",
+      "match": "Chelsea FC W 🆚 London City Lionesses",
+      "league": "England Amateur - Super League Women",
+      "tip": "Home wins",
       "odds": 1.15,
-      "time": "13:00 ",
+      "time": "12:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
