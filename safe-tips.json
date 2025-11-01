@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Read Madrid 🆚 Valencia",
+      "match": "Barcelona 🆚 Elche CF",
       "league": "Spain LaLiga",
       "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "20:00",
+      "time": "17:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Burnley 🆚 Arsenal",
-      "league": "England Premier League",
-      "tip": "Home or Away",
+      "match": "AC Milan 🆚 Roma",
+      "league": "Italy Serie A",
+      "tip": "Over 0.5 Goals",
       "odds": 1.16,
-      "time": "15:00",
+      "time": "19:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Chelsea FC W 🆚 London City Lionesses",
-      "league": "England Amateur - Super League Women",
-      "tip": "Home wins",
+      "match": "Brest 🆚 Lyon",
+      "league": "France League 1",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.15,
-      "time": "12:00 ",
+      "time": "19:45",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
