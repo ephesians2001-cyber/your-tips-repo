@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Al Hilal SFC 🆚 Al-Shabab FC(SA)",
-      "league": "Saudi Arabia – Saudi Pro League",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.18,
-      "time": "14:50",
+      "match": "Atletico Madrid 🆚 Sevilla",
+      "league": "Spain LaLiga",
+      "tip": "Home Wins",
+      "odds": 1.40,
+      "time": "15:15",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Wa Mostaganem 🆚 RC Arbaa",
-      "league": "Algeria – Ligue 2",
-      "tip": "Home or Away",
+      "match": "PSG 🆚 Nice",
+      "league": "France - Ligue1",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "14:00",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "NK Brezice  🆚 NK Race",
-      "league": "Slovenia – 3 SNL",
-      "tip": "Over 1.5 Goals",
+      "match": "Bayern Munich  🆚 Bayer Leverkusen",
+      "league": "Gemany - Bundersliga",
+      "tip": "Home or Away",
       "odds": 1.19,
-      "time": "16:00",
+      "time": "17:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
