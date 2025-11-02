@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Barcelona 🆚 Elche CF",
-      "league": "Spain LaLiga",
-      "tip": "Over 1.5 Goals",
+      "match": "Yantra Gabrovo 🆚 CSKA Sofia II",
+      "league": "Bulgaria – Vtora Liga",
+      "tip": "Home or Draw",
       "odds": 1.16,
-      "time": "17:30",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AC Milan 🆚 Roma",
-      "league": "Italy Serie A",
-      "tip": "Over 0.5 Goals",
+      "match": "Torino FC  🆚 Hallas Verona",
+      "league": "Italy – Primavera 1",
+      "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "19:45",
+      "time": "15:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Brest 🆚 Lyon",
-      "league": "France League 1",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Tractor Sports Club 🆚 AL Shorta SC",
+      "league": "Int. Clubs – AFC Champions League Elite",
+      "tip": "Over 0.5 Goals",
       "odds": 1.15,
-      "time": "19:45",
+      "time": "16:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
