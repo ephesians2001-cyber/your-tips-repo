@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Yantra Gabrovo 🆚 CSKA Sofia II",
-      "league": "Bulgaria – Vtora Liga",
+      "match": "Tottenham 🆚 Copenhagen",
+      "league": "Int. Clubs - UEFA Champions League",
       "tip": "Home or Draw",
       "odds": 1.16,
-      "time": "15:00",
+      "time": "20:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Torino FC  🆚 Hallas Verona",
-      "league": "Italy – Primavera 1",
+      "match": "Young Africans  🆚 Kmc FC",
+      "league": "Tanzania Premier League",
       "tip": "Over 1.5 Goals",
       "odds": 1.16,
-      "time": "15:30",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Tractor Sports Club 🆚 AL Shorta SC",
-      "league": "Int. Clubs – AFC Champions League Elite",
-      "tip": "Over 0.5 Goals",
+      "match": "Kuwait SC 🆚 Al-Nasr SC",
+      "league": "Kuwait - Premier League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "16:00 ",
+      "time": "14:25",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
