@@ -2,28 +2,28 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Slavia Prague 🆚 Arsenal",
-      "league": "Int. Club - UEFA Champions League",
-      "tip": "Over 1.5 Goals",
+      "match": "Pafos FC 🆚 Villlarreal",
+      "league": "Int. Clubs – UEFA Champions League",
+      "tip": "Away over 0.5 Goals",
       "odds": 1.18,
       "time": "17:45",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "PSG 🆚 Bayern Munich",
-      "league": "Int. Club - UEFA Champions League",
-      "tip": "Home Over 0.5",
+      "match": "Qarabag 🆚 Chelsea",
+      "league": "Int. Clubs – UEFA Champions League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "20:00",
+      "time": "17:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Liverpool  🆚 Real Madrid",
-      "league": "Int. Club - UEFA Champions League",
+      "match": "Ajax  🆚 Galatasaray Istanbul",
+      "league": "Int. Clubs – UEFA Champions League",
       "tip": "Home over 0.5 Goals",
-      "odds": 1.19,
+      "odds": 1.25,
       "time": "20:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
