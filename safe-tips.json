@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Tottenham 🆚 Copenhagen",
-      "league": "Int. Clubs - UEFA Champions League",
-      "tip": "Home or Draw",
+      "match": "Manchester City 🆚 Borussia Dortmund",
+      "league": "Int. Youth – UEFA Youth League",
+      "tip": "Home or Away",
       "odds": 1.16,
-      "time": "20:00",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Young Africans  🆚 Kmc FC",
-      "league": "Tanzania Premier League",
-      "tip": "Over 1.5 Goals",
+      "match": "Real Betis  🆚 FC Basel",
+      "league": "Int. Youth – UEFA Youth League",
+      "tip": "Basel over 0.5 Goals",
       "odds": 1.16,
-      "time": "13:00",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Kuwait SC 🆚 Al-Nasr SC",
-      "league": "Kuwait - Premier League",
-      "tip": "Over 1.5 Goals",
+      "match": "Mamelodi Sundowns 🆚 TS Galaxy FC",
+      "league": "South Africa Premiership",
+      "tip": "Home over 0.5 Goals",
       "odds": 1.15,
-      "time": "14:25",
+      "time": "17:30 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
