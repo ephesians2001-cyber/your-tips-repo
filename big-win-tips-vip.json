@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Beijing Guoan 🆚 Tai Po FC",
-      "league": "Int. Clubs – AFC Champions League Two",
-      "tip": "Home or Away",
+      "match": "Werder Bremen 🆚 Wolfsburg",
+      "league": "Germany Bundesliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.18,
-      "time": "12:15",
+      "time": "19:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "BG Pathum Utd 🆚 Kaya FC lloilo",
-      "league": "Int. Clubs – UEFA Champions League",
-      "tip": "Handicap 0:4",
+      "match": "Hapoel Hagalil 🆚 Maccabi Petech Tikva",
+      "league": "Israel - National League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "12:15",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Esperance Sportive  🆚 JS Omrane",
-      "league": "Tunisia – Ligue 1",
-      "tip": "Over 1.5 Goals",
+      "match": "FC Uni Cluj  🆚 Metaloglobus Bucuresti",
+      "league": "Romania - Superliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.25,
-      "time": "13:30",
+      "time": "16:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
