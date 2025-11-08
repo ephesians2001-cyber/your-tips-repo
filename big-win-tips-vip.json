@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Werder Bremen 🆚 Wolfsburg",
+      "match": "Bayer Leverkusen 🆚 Heidenheim",
       "league": "Germany Bundesliga",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.18,
-      "time": "19:30",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.20,
+      "time": "14:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Hapoel Hagalil 🆚 Maccabi Petech Tikva",
-      "league": "Israel - National League",
+      "match": "Union Berlin 🆚 Bayern Munich",
+      "league": "Germany Bundesliga",
       "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "13:00",
+      "time": "14:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Uni Cluj  🆚 Metaloglobus Bucuresti",
-      "league": "Romania - Superliga",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Sunderland AFC  🆚 Arsenal",
+      "league": "England Premier League",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.25,
-      "time": "16:00",
+      "time": "17:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
