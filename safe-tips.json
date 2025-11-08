@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Digenis Akritas 🆚 Achyronas Onisilos",
-      "league": "Cyprus - end Divison",
-      "tip": "Home or Draw",
+      "match": "Atletico Madrid 🆚 Levante",
+      "league": "Spain - LaLiga",
+      "tip": "Home or Away",
       "odds": 1.16,
-      "time": "17:00",
+      "time": "17:30",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Nasarawa Utd  🆚 Remo Stars",
-      "league": "Norway - Toppsesrien, Women",
-      "tip": "Home or Away",
+      "match": "West Ham  🆚 Burnley",
+      "league": "England Premier League",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.16,
-      "time": "17:00",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Al-Najma 🆚 Al Hilal SFC",
-      "league": "Saudi Pro League",
-      "tip": "Ovrr 1.5 Goals",
-      "odds": 1.15,
-      "time": "17:30 ",
+      "match": "Le Havre 🆚 Nantes",
+      "league": "France - Ligue 1",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.24,
+      "time": "18:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
