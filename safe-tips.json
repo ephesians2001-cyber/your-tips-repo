@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Roma 🆚 Udinese",
-      "league": "Italy Serie A",
-      "tip": "Home or Away",
+      "match": "Sporting Ben 🆚 Sfax Railways",
+      "league": "Tunisia Ligue 2",
+      "tip": "Under 2.5 Goals",
       "odds": 1.16,
-      "time": "17:00",
+      "time": "15:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Mallorca  🆚 Gatafe",
-      "league": "Spain LiLiga",
-      "tip": "Over 0.5 Goals",
-      "odds": 1.16,
-      "time": "17:30",
+      "match": "Sheffield Utd U21  🆚 Coventry City U21",
+      "league": "England Amateur",
+      "tip": "Home Wins",
+      "odds": 1.23,
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Valencia 🆚 Betis",
-      "league": "Spain LiLiga",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.24,
-      "time": "17:30 ",
+      "match": "Ironi Modiin 🆚 Hapoel Afula FC",
+      "league": "Israel National League",
+      "tip": "Home over 0.5 Goals",
+      "odds": 1.15,
+      "time": "17:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
