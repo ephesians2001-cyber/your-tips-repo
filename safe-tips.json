@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "AFC Chindia Targoviste 🆚 Sfax Railways",
-      "league": "Romania Lige 2",
-      "tip": "Home or Draw",
+      "match": "Livyi Bereh 🆚 FC Chernigiv",
+      "league": "Ukraine - Persha Liga",
+      "tip": "Home or Away",
       "odds": 1.16,
-      "time": "17:30",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Millwall U21  🆚 Bournemouth U21",
-      "league": "England Amateur",
-      "tip": "Home or Draw",
+      "match": "Ferroviario de Maputo  🆚 Desportivo de Nacala",
+      "league": "Mozambique - Mocamola",
+      "tip": "Home or Away",
       "odds": 1.23,
       "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Chesterfield FC 🆚 Liverpool U21",
-      "league": "England EFL Trophy",
-      "tip": "Home or draw",
+      "match": "North Macedonia 🆚 Belgium",
+      "league": "Int. Youth - U19 European Champ Qua.",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "19:00 ",
+      "time": "14:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
