@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Hull City U21 🆚 Barnslay U21",
+      "match": "Doxa Katokopias 🆚 Achyronas Onisilos",
       "league": "England Amateur",
-      "tip": "Home or Draw",
+      "tip": "Home or Away",
       "odds": 1.18,
-      "time": "13:00",
+      "time": "12:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AS Roma 🆚 Vaalerenga Oslo",
-      "league": "Int. Club – UEFA Championship Women",
-      "tip": "Over 1.5 Goals",
+      "match": "Radnik Krizevic 🆚 NK Grobnican",
+      "league": "Croatia - Druga NL",
+      "tip": "Home or Away",
       "odds": 1.25,
-      "time": "17:45",
+      "time": "12:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
       "match": "KTS-K Luzino  🆚 MKS Viktoria Wrzesnia",
-      "league": "Poland III Liga Group 2",
-      "tip": "Home or Draw",
+      "league": "Int. Youth U19 European Qualification",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.25,
-      "time": "11:30",
+      "time": "13:00",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
