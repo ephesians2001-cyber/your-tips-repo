@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "FC Bate Borisov 🆚 Dinamo Minsk 2",
-      "league": "Belarus – Pervaya Liga",
+      "match": "Hull City U21 🆚 Barnslay U21",
+      "league": "England Amateur",
       "tip": "Home or Draw",
       "odds": 1.18,
-      "time": "12:00",
+      "time": "13:00",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Cong An Ha Noi 🆚 Hong Linh Ha Tinh",
-      "league": "Vietnam -V-League 1",
-      "tip": "Under 4.5 Goals",
+      "match": "AS Roma 🆚 Vaalerenga Oslo",
+      "league": "Int. Club – UEFA Championship Women",
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "12:15",
+      "time": "17:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Termez Surkhon  🆚 PFC Shurtan",
-      "league": "Uzbekistan - Superliga",
-      "tip": "Over 1.5 Goals",
+      "match": "KTS-K Luzino  🆚 MKS Viktoria Wrzesnia",
+      "league": "Poland III Liga Group 2",
+      "tip": "Home or Draw",
       "odds": 1.25,
-      "time": "13:00",
+      "time": "11:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
