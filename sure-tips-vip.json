@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Doxa Katokopias 🆚 Achyronas Onisilos",
-      "league": "England Amateur",
-      "tip": "Home or Away",
+      "match": "Romania 🆚 Andorra",
+      "league": "Int. Youth U19 European Qualification",
+      "tip": "Over 2.5 Goals",
       "odds": 1.18,
-      "time": "12:30",
+      "time": "14:00",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Radnik Krizevic 🆚 NK Grobnican",
-      "league": "Croatia - Druga NL",
-      "tip": "Home or Away",
+      "match": "Italy 🆚 Moldova",
+      "league": "Int. Youth U19 European Qualification",
+      "tip": "Over 2.5 Goals",
       "odds": 1.25,
-      "time": "12:30",
+      "time": "14:00",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "KTS-K Luzino  🆚 MKS Viktoria Wrzesnia",
+      "match": "Czechia  🆚 Azerbaijan",
       "league": "Int. Youth U19 European Qualification",
-      "tip": "Home Over 0.5 Goals",
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "13:00",
+      "time": "13:30",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
