@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Livyi Bereh 🆚 FC Chernigiv",
-      "league": "Ukraine - Persha Liga",
-      "tip": "Home or Away",
-      "odds": 1.16,
-      "time": "13:00",
+      "match": "Ireland 🆚 Portugal",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.19,
+      "time": "19:45",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Ferroviario de Maputo  🆚 Desportivo de Nacala",
-      "league": "Mozambique - Mocamola",
-      "tip": "Home or Away",
+      "match": "Thailand  🆚 Singapore",
+      "league": "Int. Friendly Games",
+      "tip": "Over 1.5 Goals",
       "odds": 1.23,
-      "time": "13:00",
+      "time": "12:30",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "North Macedonia 🆚 Belgium",
-      "league": "Int. Youth - U19 European Champ Qua.",
-      "tip": "Over 1.5 Goals",
+      "match": "Power Dynamos 🆚 Kansanshi Dynamos",
+      "league": "Zambia Super League",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.15,
-      "time": "14:00 ",
+      "time": "13:00 ",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
