@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "England 🆚 Serbia",
-      "league": "Int. World Cup Qualification UEFA",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.20,
-      "time": "19:45",
+      "match": "NK Opatija 🆚 HNK Cibalia Vinkovci",
+      "league": "Croatia Prva NL",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.39,
+      "time": "12:30",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "France 🆚 Ukraine",
-      "league": "Int. World Cup Qualification UEFA",
-      "tip": "Over 1.5 Goals",
+      "match": "Shabab Al Ahli 🆚 Al Wasl",
+      "league": "United Arab Emirates - U21 League",
+      "tip": "Home or Away",
       "odds": 1.21,
-      "time": "19:45",
+      "time": "12:40",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Moldova  🆚 Italy",
-      "league": "Int. World Cup Qualification UEFA",
-      "tip": "First Half Over 0.5 Goals",
+      "match": "Johor Darul Takzim  🆚 Bunga Raya FC",
+      "league": "Malaysia Liga A1",
+      "tip": "Home or Away",
       "odds": 1.25,
-      "time": "19:45",
+      "time": "12:45",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
