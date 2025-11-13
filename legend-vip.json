@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "Romania 🆚 Andorra",
-      "league": "Int. Youth U19 European Qualification",
-      "tip": "Over 2.5 Goals",
-      "odds": 1.18,
-      "time": "14:00",
+      "match": "England 🆚 Serbia",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.20,
+      "time": "19:45",
       "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Italy 🆚 Moldova",
-      "league": "Int. Youth U19 European Qualification",
-      "tip": "Over 2.5 Goals",
-      "odds": 1.25,
-      "time": "14:00",
+      "match": "France 🆚 Ukraine",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.21,
+      "time": "19:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Czechia  🆚 Azerbaijan",
-      "league": "Int. Youth U19 European Qualification",
-      "tip": "Over 1.5 Goals",
+      "match": "Moldova  🆚 Italy",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "First Half Over 0.5 Goals",
       "odds": 1.25,
-      "time": "13:30",
+      "time": "19:45",
       "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
