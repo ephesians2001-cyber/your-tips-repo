@@ -2,29 +2,29 @@
   "lastUpdated": "2025-10-24T14:30:00Z",
   "tips": [
     {
-      "match": "NK Kustosija 🆚 NK Trnje",
-      "league": "Croatia Druga NL",
-      "tip": "Home or Away",
+      "match": "Turkey 🆚 Bulgaria",
+      "league": "Int. World Cup Qualificatioon UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "13:00",
+      "time": "17:00",
       "status": "pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Brentford U21  🆚 Bournemouth U21",
-      "league": "England Amateur - U21",
-      "tip": "Over 2.5 Goals",
+      "match": "Denmark 🆚 Belarus",
+      "league": "Int. World Cup Qualificatioon UEFA",
+      "tip": "1st Half Over 0.5 Goals",
       "odds": 1.23,
-      "time": "14:00",
+      "time": "19:45",
       "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Belarus 🆚 Wales",
-      "league": "Int. Youth - U21 UEFA",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.15,
-      "time": "14:00 ",
+      "match": "Greece 🆚 Scotland",
+      "league": "Int. World Cup Qualificatioon UEFA",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "19:45",
       "status": "pending",
       "createdAt": "2024-01-13T11:30:00Z"
     }
