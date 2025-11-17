@@ -3,33 +3,33 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Gorna Oryahovitsa 🆚 PFC Spartak Pleven",
-      "league": "Bulgaria - Vtora Liga",
-      "tip": "Home or Draw",
-      "odds": 1.15,
-      "time": "12:30",
-      "status": "won",
-      "confidence": 90
+      "match": "Germany 🆚 Slovakia",
+      "league": "Int – World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.18,
+      "time": "19:45",
+      "status": "Pending",
+      "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Hacken Gothenburg 🆚 Piteaa IF DFF",
-      "league": "Sweden - Damallsvenskan",
-      "tip": "Home First Goal",
-      "odds": 1.21,
-      "time": "13:00",
-      "status": "won",
-      "confidence": 90
+      "match": "Young Lions R 🆚 Balestier Khalsa II",
+      "league": "Singapore – Premier League 2",
+      "tip": "Home or Draw",
+      "odds": 1.25,
+      "time": "11:30",
+      "status": "pending",
+      "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Malmo FF  🆚 Vittsjo GIK",
-      "league": "Sweden - Damallsvenskan",
+      "match": "Ittihad All Ramtha  🆚 Al Tora",
+      "league": "Jordan – First Division",
       "tip": "Home or Away",
       "odds": 1.25,
-      "time": "17:00",
-      "status": "won",
-      "confidence": 90
+      "time": "12:30",
+      "status": "pending",
+      "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
