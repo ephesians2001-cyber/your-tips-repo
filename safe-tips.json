@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Germany 🆚 Italy",
-      "league": "Int. Youth – U20 Friendly Games",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Austria 🆚 Bosnia & Herzegovina",
+      "league": "Int world Cup Qualification UEFA",
+      "tip": "Away Under 1.5 Goals",
       "odds": 1.16,
-      "time": "17:30",
-      "status": "won",
+      "time": "19:45",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Qatar  🆚 Zimbabwe",
-      "league": "Int. Friendly Games",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Belarus  🆚 Greece",
+      "league": "Int world Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.23,
-      "time": "16:30",
-      "status": "won",
+      "time": "19:45",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Finland 🆚 Andorra",
-      "league": "Int. Friendly Games",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Bulgaria 🆚 Georgia",
+      "league": "Int world Cup Qualification UEFA",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.15,
-      "time": "17:00 ",
-      "status": "won",
+      "time": "19:45 ",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-13T11:30:00Z"
     }
