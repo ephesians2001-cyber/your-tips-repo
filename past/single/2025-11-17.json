@@ -1,16 +1,17 @@
 {
   "lastUpdated": "2024-01-15T14:30:00Z",
   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
   "tips": [
     {
-      "match": "NK Vitez  🆚 FK Buducnost Banovici",
-      "league": "Bosnia & Herzegovina Prva Liga",
-      "tip": "Home or Draw",
-      "odds": 1.18,
-      "time": "12:30",
-      "status": "won",
-      "confidence": 90
-      "createdAt": "2024-01-15T11:30:00Z"
+      "match": "Spain 🆚 Turkiye",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.19,
+      "time": "19:45",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
     }
   ]
 }
