@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Portugal 🆚 Romania",
-      "league": "Int. Youth – U20 Friendly Games ",
-      "tip": "Over 2.5 Goals",
+      "match": "Spain 🆚 Turkiye",
+      "league": "Int. World Cup Qualification UEFA",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "17:30",
-      "status": "lost",
+      "time": "19:45",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
