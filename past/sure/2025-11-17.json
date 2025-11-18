@@ -8,8 +8,7 @@
       "tip": "Home or Draw",
       "odds": 1.15,
       "time": "12:30",
-      "status": "won",
-      "confidence": 90
+      "status": "Pending",
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
@@ -18,8 +17,7 @@
       "tip": "Home First Goal",
       "odds": 1.21,
       "time": "13:00",
-      "status": "won",
-      "confidence": 90
+      "status": "pending",
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
@@ -28,8 +26,7 @@
       "tip": "Home or Away",
       "odds": 1.25,
       "time": "17:00",
-      "status": "won",
-      "confidence": 90
+      "status": "pending",
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
