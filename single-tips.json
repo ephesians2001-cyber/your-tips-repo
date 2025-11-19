@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Spain 🆚 Turkiye",
-      "league": "Int. World Cup Qualification UEFA",
+      "match": "Laos 🆚 Vietnam",
+      "league": "Int. -AFC Asian Cup QF",
       "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "19:45",
-      "status": "won",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
