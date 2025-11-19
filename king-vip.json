@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Japan 🆚 Bolivia",
-      "league": "Int – Friendly Games",
-      "tip": "Under 4.5 Goals",
+      "match": "Remo Stars 🆚 Kano Pillars FC",
+      "league": "Nigeria - Premier League",
+      "tip": "Under 3.5 Goals",
       "odds": 1.18,
-      "time": "10:15",
-      "status": "won",
+      "time": "15:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Republic Of Korea 🆚 Ghana",
-      "league": "Int – Friendly Games",
-      "tip": "Under 4.5 Goals",
+      "match": "Juventus Turin W 🆚 Olympique Lyon W",
+      "league": "Int. Club - UEFA Champions League Women",
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "11:30",
-      "status": "won",
+      "time": "17:45",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Brazil  🆚 Tunisia",
-      "league": "Int – Friendly Games",
+      "match": "Blooming Santa  🆚 Cdt Real Oruro",
+      "league": "Bolivia - Copa Bolivia",
       "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "19:30",
-      "status": "won",
+      "time": "19:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
