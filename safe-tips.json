@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Austria 🆚 Bosnia & Herzegovina",
-      "league": "Int world Cup Qualification UEFA",
-      "tip": "Away Under 1.5 Goals",
-      "odds": 1.16,
+      "match": "Besa Kaveje 🆚 FK Kukesi",
+      "league": "Albania - Kupa e Shqiperise",
+      "tip": "Home Wins",
+      "odds": 1.18,
       "time": "19:45",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Belarus  🆚 Greece",
-      "league": "Int world Cup Qualification UEFA",
-      "tip": "Over 1.5 Goals",
+      "match": "FK Vora 🆚 Sopoti Librazhd",
+      "league": "Albania - Kupa e Shqiperise",
+      "tip": "Home Wins",
       "odds": 1.23,
-      "time": "19:45",
-      "status": "lost",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bulgaria 🆚 Georgia",
-      "league": "Int world Cup Qualification UEFA",
-      "tip": "Away Over 0.5 Goals",
+      "match": "Asante Kotoko 🆚 Young Apostles FC",
+      "league": "Ghana - Premier League",
+      "tip": "Under 3.5 Goals",
       "odds": 1.15,
-      "time": "19:45 ",
-      "status": "won",
+      "time": "15:00 ",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-13T11:30:00Z"
     }
