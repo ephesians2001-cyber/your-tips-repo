@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Raya Ghazl SC 🆚 Baladiyyat Al Mehalla",
-      "league": "Egypt – 2 division a",
-      "tip": "Over 0.5 Goals",
+      "match": "Sanatatea Cluj 🆚 Ariesul Turda",
+      "league": "Romania – Liga 3",
+      "tip": "Home Wins",
       "odds": 1.16,
-      "time": "12:30",
-      "status": "won",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "SaiPa FC  🆚 Nassaji Mazandaran FC",
-      "league": "Iran – Hazfi Cup",
-      "tip": "Over 0.5 Goals",
-      "odds": 1.23,
-      "time": "12:45",
-      "status": "lost",
-      "confidence": 90,
+      "match": "Ethiopian Coffee SC 🆚 Ethiopian Medhin",
+      "league": "Ethiopia – Premier League ",
+      "tip": "Under 2.5 Goals",
+      "odds": 1.19,
+      "time": "12:00",
+      "status": "pending",
+      "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Paradou AC 🆚 EL Bayadh",
-      "league": "Algeria – Ligue 1",
-      "tip": "Over 0.5 Goals",
+      "match": "AS Usv Lasi 🆚 Csm Adjud 1946",
+      "league": "Romania – Liga 3",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "13:00 ",
-      "status": "won",
+      "time": "12:00 ",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-13T11:30:00Z"
     }
