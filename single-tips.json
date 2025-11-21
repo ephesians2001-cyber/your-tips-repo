@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Sidama Bunna 🆚 Mekelle 70 Enderta",
-      "league": "Ethiopia – Premier League ",
-      "tip": "Over 0.5 Goals",
+      "match": "CSO Cugir 🆚 Csl Hidro Mecanica",
+      "league": "Romania – Liga 3 ",
+      "tip": "Home Wins",
       "odds": 1.19,
-      "time": "12:30",
-      "status": "lost",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
