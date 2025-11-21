@@ -3,33 +3,34 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Eintracht Frankfurt 🆚 PSV Eindhoven",
-      "league": "Int – Clubs UEFA Europa Cup Women",
+      "match": "Ararat Yerevan 🆚 FC Ararat - Armenia",
+      "league": "Armenia – Premier League",
       "tip": "Over 1.5 Goals",
       "odds": 1.18,
-      "time": "17:35",
-      "status": "won",
+      "time": "13:00",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Hammarby Talang 🆚 Orebro SK",
-      "league": "Sweden - Superettan",
+      "match": "Al-Nasr Dubai 🆚 Al Dhafra SSC",
+      "league": "United Arab Emirates Gulf League",
       "tip": "Home Over 0.5 Goals",
-      "odds": 1.25,
+      "odds": 1.18,
       "time": "18:00",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Norrby IF  🆚 Utsiktens BK",
-      "league": "Sweden - Superettan",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "18:00",
-      "status": "won",
+      "match": "Ramnicu Valcea  🆚 ACS Aro Muscelul",
+      "league": "Romania – Liga 3",
+      "tip": "Home Wins",
+      "odds": 1.18,
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
+}
