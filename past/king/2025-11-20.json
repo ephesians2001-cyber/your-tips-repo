@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Eintracht Frankfurt 🆚 PSV Eindhoven",
+      "league": "Int – Clubs UEFA Europa Cup Women",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.18,
+      "time": "17:35",
+      "status": "Pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Hammarby Talang 🆚 Orebro SK",
+      "league": "Sweden - Superettan",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "18:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Norrby IF  🆚 Utsiktens BK",
+      "league": "Sweden - Superettan",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "18:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
