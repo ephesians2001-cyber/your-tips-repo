@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "CSO Cugir 🆚 Csl Hidro Mecanica",
-      "league": "Romania – Liga 3 ",
-      "tip": "Home Wins",
+      "match": "Burnley 🆚 Chelsea",
+      "league": "England – Premier League ",
+      "tip": "Chelsea Over O.5 goals",
       "odds": 1.19,
-      "time": "12:00",
-      "status": "won",
+      "time": "12:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
