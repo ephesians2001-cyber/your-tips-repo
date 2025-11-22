@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Ararat Yerevan 🆚 FC Ararat - Armenia",
-      "league": "Armenia – Premier League",
+      "match": "PSG  🆚 Le Havre",
+      "league": "France Ligue 1",
       "tip": "Over 1.5 Goals",
       "odds": 1.18,
-      "time": "13:00",
-      "status": "won",
+      "time": "20:00",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Al-Nasr Dubai 🆚 Al Dhafra SSC",
-      "league": "United Arab Emirates Gulf League",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Barcelona 🆚 Athletic Bilbao",
+      "league": "Spain - Laliga",
+      "tip": "Home or Draw",
       "odds": 1.18,
-      "time": "18:00",
-      "status": "won",
+      "time": "15:05",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Ramnicu Valcea  🆚 ACS Aro Muscelul",
-      "league": "Romania – Liga 3",
-      "tip": "Home Wins",
+      "match": "Liverpool  🆚 Nottingham Forest",
+      "league": "England Premier League",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.18,
-      "time": "12:00",
-      "status": "won",
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
