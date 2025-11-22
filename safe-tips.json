@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Sanatatea Cluj 🆚 Ariesul Turda",
-      "league": "Romania – Liga 3",
-      "tip": "Home Wins",
+      "match": "Heidenheim  🆚 Borussia M’gladbach",
+      "league": "Germany - Bundesliga",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.16,
-      "time": "12:00",
-      "status": "won",
+      "time": "14:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Ethiopian Coffee SC 🆚 Ethiopian Medhin",
-      "league": "Ethiopia – Premier League ",
-      "tip": "Under 2.5 Goals",
+      "match": "Borussia Dortmund 🆚 Stuttgart",
+      "league": "Germany - Bundesliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "12:00",
-      "status": "lost",
+      "time": "14:30",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "AS Usv Lasi 🆚 Csm Adjud 1946",
-      "league": "Romania – Liga 3",
+      "match": "Bayern Munich 🆚 Freiburg",
+      "league": "Germany - Bundesliga",
       "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "12:00 ",
-      "status": "won",
+      "time": "14:30 ",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-13T11:30:00Z"
     }
