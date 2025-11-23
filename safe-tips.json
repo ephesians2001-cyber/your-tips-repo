@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Heidenheim  🆚 Borussia M’gladbach",
-      "league": "Germany - Bundesliga",
-      "tip": "Away Over 0.5 Goals",
+      "match": "Betis  🆚 Girona",
+      "league": "Spain LaLiga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.16,
-      "time": "14:30",
-      "status": "won",
+      "time": "15:15",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Borussia Dortmund 🆚 Stuttgart",
+      "match": "RB Leipzig 🆚 Werder Bremen",
       "league": "Germany - Bundesliga",
-      "tip": "Home Over 0.5 Goals",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
       "time": "14:30",
-      "status": "won",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bayern Munich 🆚 Freiburg",
-      "league": "Germany - Bundesliga",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.15,
+      "match": "AJ Auxerre 🆚 Lyon",
+      "league": "France Ligue 1",
+      "tip": "Away Over 0.5 Goals",
+      "odds": 1.25,
       "time": "14:30 ",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-13T11:30:00Z"
     }
