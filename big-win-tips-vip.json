@@ -3,33 +3,33 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Lille  🆚 Paris FC",
-      "league": "France Ligue 1",
+      "match": "Man Utd  🆚 Everton",
+      "league": "England Premier league",
       "tip": "Home over 0.5 Goals",
-      "odds": 1.18,
-      "time": "19:45",
-      "status": "won",
+      "odds": 1.19,
+      "time": "12:00",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Arsenal 🆚 Tottenham",
-      "league": "England Premier League",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.18,
+      "match": "Al Ahli Saudi 🆚 Sharjah FC",
+      "league": "Int. Clubs – AFC Championship League",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.21,
       "time": "15:05",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Inter 🆚 AC Milan",
-      "league": "Italy – Serie A",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Konyaspor 🆚 Antalyaspor",
+      "league": "Turkiye – Super Lig",
+      "tip": "Under 4.5 Goals",
       "odds": 1.25,
-      "time": "19:45",
-      "status": "lost",
-      "confidence": 90,
+      "time": "17:00",
+      "status": "pending",
+      "confidence": 80,
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
