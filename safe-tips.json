@@ -4,33 +4,33 @@
 
   "tips": [
     {
-      "match": "Betis  🆚 Girona",
-      "league": "Spain LaLiga",
-      "tip": "Home Over 0.5 Goals",
+      "match": "SK Volgograd  🆚 FC Chelyabinsk",
+      "league": "Russia -1 Liga",
+      "tip": "Under 3.5 Goals",
       "odds": 1.16,
-      "time": "15:15",
-      "status": "won",
+      "time": "16:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "RB Leipzig 🆚 Werder Bremen",
-      "league": "Germany - Bundesliga",
+      "match": "AC Monza 🆚 US Cremonese",
+      "league": "Italy – Primavera 1",
       "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "14:30",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "AJ Auxerre 🆚 Lyon",
-      "league": "France Ligue 1",
-      "tip": "Away Over 0.5 Goals",
+      "match": "POFC Botev 🆚 PFC Slavia Sofia",
+      "league": "Bulgaria – Parva Liga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.25,
-      "time": "14:30 ",
-      "status": "lost",
-      "confidence": 90,
+      "time": "15:30 ",
+      "status": "pending",
+      "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
