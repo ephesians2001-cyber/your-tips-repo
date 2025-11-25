@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+  "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
+  "tips": [
+    {
+      "match": "SK Volgograd  🆚 FC Chelyabinsk",
+      "league": "Russia -1 Liga",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.16,
+      "time": "16:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "AC Monza 🆚 US Cremonese",
+      "league": "Italy – Primavera 1",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.19,
+      "time": "13:00",
+      "status": "pending",
+      "confidence": 80,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "POFC Botev 🆚 PFC Slavia Sofia",
+      "league": "Bulgaria – Parva Liga",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "15:30 ",
+      "status": "pending",
+      "confidence": 80,
+      "createdAt": "2024-01-13T11:30:00Z"
+    }
+  ]
+}
