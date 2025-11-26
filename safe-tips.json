@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Borussia Dortmund  🆚 Villarreal",
-      "league": "Int. Clubs – UEFA Champions League",
+      "match": "Bangkok Utd  🆚 Selangor FC",
+      "league": "Int. Clubs – AFC Champions League Two",
       "tip": "Home Over 0.5 Goals",
       "odds": 1.16,
-      "time": "20:00",
-      "status": "won",
+      "time": "12:15",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AC Monza 🆚 US Cremonese",
-      "league": "Italy – Primavera 1",
-      "tip": "Over 1.5 Goals",
+      "match": "FC Copenhagen 🆚 Kairat Almaty",
+      "league": "Int. Youth – UEFA Youth league",
+      "tip": "Home or Draw",
       "odds": 1.19,
-      "time": "13:00",
-      "status": "won",
+      "time": "12:45",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bodeo/Glimt 🆚 Juventus",
-      "league": "Int. Club – UEFA Champions League",
-      "tip": "Over 1.5 Goals",
+      "match": "FC Istiklol 🆚 Al Nassr Club",
+      "league": "AFC Championship League Two",
+      "tip": "Home or Away",
       "odds": 1.25,
-      "time": "20:00 ",
-      "status": "won",
+      "time": "13:45 ",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
