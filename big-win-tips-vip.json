@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Olympiacos  🆚 Real Madrid",
-      "league": "Int. Clubs – UEFA Championship League",
+      "match": "Aston Villa  🆚 Young Boys Bern",
+      "league": "Int. Clubs – UEFA Europa League",
       "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "20:00",
-      "status": "won",
+      "time": "17:45",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "PSG 🆚 Tottenham",
-      "league": "Int. Clubs – UEFA Championship League",
-      "tip": "Over 1.5 Goals",
+      "match": "Feyenoord  🆚 Celtic",
+      "league": "Int. Clubs – UEFA Europa League",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.21,
-      "time": "20:00",
-      "status": "won",
+      "time": "17:45",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Sporting 🆚 Club Brugge",
-      "league": "Int. Clubs – UEFA Champions League",
+      "match": "MS Tira 🆚 Hapoel Umm AL",
+      "league": "Israel – Liga Alef",
       "tip": "Home Over 0.5 Goals",
       "odds": 1.25,
-      "time": "20:00",
-      "status": "won",
+      "time": "17:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-15T11:30:00Z"
     }
