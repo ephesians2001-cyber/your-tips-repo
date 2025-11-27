@@ -3,33 +3,33 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Eintracht Frankfurt 🆚 PSV Eindhoven",
-      "league": "Int – Clubs UEFA Europa Cup Women",
+      "match": "Olympiacos  🆚 Real Madrid",
+      "league": "Int. Clubs – UEFA Championship League",
       "tip": "Over 1.5 Goals",
-      "odds": 1.18,
-      "time": "17:35",
+      "odds": 1.19,
+      "time": "20:00",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Hammarby Talang 🆚 Orebro SK",
-      "league": "Sweden - Superettan",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "18:00",
+      "match": "PSG 🆚 Tottenham",
+      "league": "Int. Clubs – UEFA Championship League",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.21,
+      "time": "20:00",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Norrby IF  🆚 Utsiktens BK",
-      "league": "Sweden - Superettan",
+      "match": "Sporting 🆚 Club Brugge",
+      "league": "Int. Clubs – UEFA Champions League",
       "tip": "Home Over 0.5 Goals",
       "odds": 1.25,
-      "time": "18:00",
+      "time": "20:00",
       "status": "won",
-      "confidence": 90,
+      "confidence": 80,
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
