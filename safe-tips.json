@@ -4,22 +4,22 @@
 
   "tips": [
     {
-      "match": "Bangkok Utd  🆚 Selangor FC",
-      "league": "Int. Clubs – AFC Champions League Two",
+      "match": "PAOK  🆚 SK Brann",
+      "league": "Int. Clubs- UEFA Europa League",
       "tip": "Home Over 0.5 Goals",
       "odds": 1.16,
-      "time": "12:15",
-      "status": "won",
+      "time": "17:45",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FC Copenhagen 🆚 Kairat Almaty",
-      "league": "Int. Youth – UEFA Youth league",
-      "tip": "Home or Draw",
+      "match": "Uganda Police 🆚 Kitara FC",
+      "league": "Uganda – Premier League",
+      "tip": "Under 3.5 Goals",
       "odds": 1.19,
-      "time": "12:45",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
@@ -29,7 +29,7 @@
       "tip": "Home or Away",
       "odds": 1.25,
       "time": "13:45 ",
-      "status": "won",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
