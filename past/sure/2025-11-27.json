@@ -3,33 +3,33 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Ararat Yerevan 🆚 FC Ararat - Armenia",
-      "league": "Armenia – Premier League",
+      "match": "Aston Villa  🆚 Young Boys Bern",
+      "league": "Int. Clubs – UEFA Europa League",
       "tip": "Over 1.5 Goals",
-      "odds": 1.18,
-      "time": "13:00",
+      "odds": 1.19,
+      "time": "17:45",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Al-Nasr Dubai 🆚 Al Dhafra SSC",
-      "league": "United Arab Emirates Gulf League",
+      "match": "Feyenoord  🆚 Celtic",
+      "league": "Int. Clubs – UEFA Europa League",
       "tip": "Home Over 0.5 Goals",
-      "odds": 1.18,
-      "time": "18:00",
+      "odds": 1.21,
+      "time": "17:45",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Ramnicu Valcea  🆚 ACS Aro Muscelul",
-      "league": "Romania – Liga 3",
-      "tip": "Home Wins",
-      "odds": 1.18,
-      "time": "12:00",
+      "match": "MS Tira 🆚 Hapoel Umm AL",
+      "league": "Israel – Liga Alef",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "17:00",
       "status": "won",
-      "confidence": 90,
+      "confidence": 80,
       "createdAt": "2024-01-15T11:30:00Z"
     }
   ]
