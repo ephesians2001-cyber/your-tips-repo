@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "ACS LPS Clinceni  🆚 Csl Nanov",
-      "league": "Romania – Liga 3",
+      "match": "Union Berlin  🆚 Heidenheim",
+      "league": "Germany - Bundesliga",
       "tip": "Home or Draw",
       "odds": 1.16,
-      "time": "15:00",
+      "time": "14:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Prachuap FC 🆚 Port FC",
-      "league": "Thailand – Thai League 1",
-      "tip": "Away Under 2.5 Goals",
-      "odds": 1.21,
-      "time": "12:00",
-      "status": "won",
+      "match": "Hoffenheim  🆚 Augsburg",
+      "league": "Germany - Bundesliga",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "14:30",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Metz 🆚 Rennes",
-      "league": "France – Ligue 1",
-      "tip": "Away Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "13:45 ",
-      "status": "won",
+      "match": "Mallorca 🆚 Osasuna",
+      "league": "Spain - LaLiga",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.16,
+      "time": "13:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
