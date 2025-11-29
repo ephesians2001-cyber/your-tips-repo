@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Como 1907  🆚 Sassuolo",
-      "league": "Italy Serie A",
-      "tip": "Home Over 0.5 goals",
+      "match": "Bayern Munich  🆚 FC St. Paul",
+      "league": "Germany - Bundesliga",
+      "tip": "Home Wins",
       "odds": 1.19,
-      "time": "19:45",
-      "status": "won",
+      "time": "14:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
