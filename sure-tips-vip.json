@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Monaco  🆚 PSG",
-      "league": "France Ligue 1",
-      "tip": "Over 1.5 Goals",
+      "match": "Atalanta  🆚 Fiorentina",
+      "league": "Italy – Serie A",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "16:00",
-      "status": "lost",
+      "time": "17:00",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Barcelona  🆚 Alaves",
-      "league": "Spain LaLiga",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.21,
-      "time": "15:15",
-      "status": "won",
+      "match": "Chelsea  🆚 Arsenal",
+      "league": "England Premier League",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.18,
+      "time": "16:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Man City 🆚 Leeds United",
+      "match": "West Ham 🆚 Livepool",
       "league": "England Premier League",
-      "tip": "Over 1.5 Goals",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.19,
-      "time": "15:00",
-      "status": "won",
+      "time": "14:05",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-15T11:30:00Z"
     }
