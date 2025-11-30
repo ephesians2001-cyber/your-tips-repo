@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Union Berlin  🆚 Heidenheim",
-      "league": "Germany - Bundesliga",
-      "tip": "Home or Draw",
+      "match": "Aston Villa  🆚 Wolves",
+      "league": "England Premier League",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.16,
       "time": "14:30",
-      "status": "lost",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Hoffenheim  🆚 Augsburg",
-      "league": "Germany - Bundesliga",
-      "tip": "Home Over 0.5 Goals",
+      "match": "SC Pisa  🆚 Inter",
+      "league": "Italy – Serie A",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.19,
-      "time": "14:30",
-      "status": "won",
+      "time": "14:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Mallorca 🆚 Osasuna",
-      "league": "Spain - LaLiga",
-      "tip": "Over 0.5 Goals",
-      "odds": 1.16,
-      "time": "13:00",
-      "status": "won",
+      "match": "Crystal Palace 🆚 Man Utd",
+      "league": "England Premier League",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.22,
+      "time": "12:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
