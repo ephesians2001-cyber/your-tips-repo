@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Aston Villa  🆚 Wolves",
-      "league": "England Premier League",
-      "tip": "Home Over 0.5 Goals",
+      "match": "FC Gagra  🆚 FC Telavi",
+      "league": "Georgia – Erovnuli Liga",
+      "tip": "Home or Draw",
       "odds": 1.16,
-      "time": "14:30",
-      "status": "won",
+      "time": "15:00",
+      "status": "lost",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "SC Pisa  🆚 Inter",
-      "league": "Italy – Serie A",
-      "tip": "Away Over 0.5 Goals",
+      "match": "FC Dynamo Kyiv  🆚 SC Poltava",
+      "league": "Ukraine – Premier League",
+      "tip": "Handicap 0:5",
       "odds": 1.19,
-      "time": "14:00",
+      "time": "13:30",
       "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Crystal Palace 🆚 Man Utd",
-      "league": "England Premier League",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.22,
-      "time": "12:00",
-      "status": "won",
+      "match": "AO Miltiadis 🆚 Panegialios FC",
+      "league": "Greece – Gamma Ethniki",
+      "tip": "Home or Away",
+      "odds": 1.32,
+      "time": "13:00",
+      "status": "lost",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
