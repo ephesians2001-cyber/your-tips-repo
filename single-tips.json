@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Bologna  🆚 US Cremonese",
-      "league": "Italy Serie A",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.19,
-      "time": "19:45",
-      "status": "won",
+      "match": "Bournemouth  🆚 Everton",
+      "league": "England Premier League",
+      "tip": "Home or Draw",
+      "odds": 1.30,
+      "time": "19:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
