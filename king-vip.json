@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Samsunspor  🆚 Alanyaspor",
-      "league": "Turkiye – Super Lig",
-      "tip": "Under 4.5 Goals",
+      "match": "Volos NPS  🆚 AO Egaleo 1931",
+      "league": "Greece – Greece Cup",
+      "tip": "Home Wins",
       "odds": 1.19,
       "time": "17:00",
-      "status": "won",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Fenerbahce Ist.  🆚 Galatasaray Istanbul",
-      "league": "Turkiye – Super Lig",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Viseu  🆚 Rio Ave",
+      "league": "Pertugal – U23 Liga Revelacao",
+      "tip": "Home or Draw",
       "odds": 1.18,
-      "time": "17:00",
-      "status": "won",
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Shakhtar D 🆚 FC Kryvbas Kriviy",
-      "league": "Ukraine - Premier League",
-      "tip": "Home Wins",
+      "match": "Morocco 🆚 Comoros",
+      "league": "Int. – Arab Cup",
+      "tip": "Home or Away",
       "odds": 1.19,
-      "time": "16:00",
-      "status": "lost",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-15T11:30:00Z"
     }
