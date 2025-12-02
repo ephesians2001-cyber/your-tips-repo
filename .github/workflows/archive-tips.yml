@@ -1,8 +1,9 @@
 name: Archive Daily Tips
 
 on:
-  # The 'schedule' trigger has been removed.
-  # This workflow can now ONLY be started manually.
+  schedule:
+    # Runs at 12:00 AM GMT every day
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,8 +28,6 @@ jobs:
       - name: Archive tips and cleanup old files
         run: |
           # 🚨 FIX: Set ARCHIVE_DATE to YESTERDAY (date the tips were live)
-          # Note: When run manually, this will archive the tips that were live
-          # on the day before the manual execution.
           ARCHIVE_DATE=$(date -u -d 'yesterday' +%Y-%m-%d)
           CUTOFF_TIMESTAMP=$(date -u -d '7 days ago' +%s)
           
