@@ -4,31 +4,31 @@
 
   "tips": [
     {
-      "match": "Bangkok Utd  🆚 Selangor FC",
-      "league": "Int. Clubs – AFC Champions League Two",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Newcastle  🆚 Tottenham",
+      "league": "England – Premier League",
+      "tip": "Home over 0.5 goals",
       "odds": 1.16,
-      "time": "12:15",
+      "time": "15:00",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FC Copenhagen 🆚 Kairat Almaty",
-      "league": "Int. Youth – UEFA Youth league",
-      "tip": "Home or Draw",
+      "match": "Barcelona  🆚 Atletico Madrid",
+      "league": "Spain - LaLiga",
+      "tip": "Home over 0.5 goals",
       "odds": 1.19,
-      "time": "12:45",
+      "time": "20:30",
       "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Istiklol 🆚 Al Nassr Club",
-      "league": "AFC Championship League Two",
-      "tip": "Home or Away",
-      "odds": 1.25,
-      "time": "13:45 ",
+      "match": "Fulham 🆚 Man City",
+      "league": "England – Premier League",
+      "tip": "Away over 0.5 Goals",
+      "odds": 1.32,
+      "time": "19:30",
       "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
