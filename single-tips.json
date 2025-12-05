@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Liverpool  🆚 Sunderland AFC",
-      "league": "England Premier League",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.30,
-      "time": "20:15",
-      "status": "won",
+      "match": "ASO Cheif  🆚 Js El Bair",
+      "league": "Algeria – Coupe d’Algerie",
+      "tip": "Home or Away",
+      "odds": 1.25,
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
