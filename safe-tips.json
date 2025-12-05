@@ -1,36 +1,37 @@
 {
   "lastUpdated": "2025-10-24T14:30:00Z",
-   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
   "tips": [
     {
-      "match": "Kiryat Gat SC  🆚 Maccabi Talents Hadera",
-      "league": "Israel – Liga AL, Women",
+      "match": "ACS Viitorul  🆚 ACS Unirea Dmo",
+      "league": "Romania – Liga 3",
       "tip": "Home Wins",
-      "odds": 1.19,
-      "time": "15:50",
-      "status": "lost",
+      "odds": 1.16,
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Araz Nakhchivan  🆚 FK Kapaz",
-      "league": "Azerbaijan – Azerbaijan Cup",
-      "tip": "Under 4.5 Goals",
-      "odds": 1.29,
-      "time": "15:00",
-      "status": "won",
-      "confidence": 90,
+      "match": "Academica Bals  🆚 Acso Filiasi      ",
+      "league": "Romania – Liga 3",
+      "tip": "Home or Draw",
+      "odds": 1.19,
+      "time": "12:00",
+      "status": "pending",
+      "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Tractor Sport Club 🆚 Esteghalal Khuzestan",
-      "league": "Iran – Pro League",
-      "tip": "Home or Away",
+      "match": "Mainz 🆚 Borussia M’glabach",
+      "league": "Germany - Bundesliga",
+      "tip": "Mainz Over 0.5 Goals",
       "odds": 1.19,
-      "time": "13:00",
-      "status": "lost",
+      "time": "19:30",
+      "status": "pending",
       "confidence": 80,
-      "createdAt": "2024-01-15T11:30:00Z"
+      "createdAt": "2024-01-13T11:30:00Z"
     }
   ]
 }
