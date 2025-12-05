@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Kiryat Gat SC  🆚 Maccabi Talents Hadera",
-      "league": "Israel – Liga AL, Women",
-      "tip": "Home Wins",
+      "match": "NK Koper  🆚 NK Domzale",
+      "league": "Slovenia - PrivaLiga",
+      "tip": "Home or Draw",
       "odds": 1.19,
-      "time": "15:50",
-      "status": "lost",
+      "time": "16:30",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Araz Nakhchivan  🆚 FK Kapaz",
-      "league": "Azerbaijan – Azerbaijan Cup",
-      "tip": "Under 4.5 Goals",
-      "odds": 1.29,
-      "time": "15:00",
-      "status": "won",
+      "match": "Lille  🆚 Marseille",
+      "league": "France – Ligue 1",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "20:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Tractor Sport Club 🆚 Esteghalal Khuzestan",
-      "league": "Iran – Pro League",
-      "tip": "Home or Away",
+      "match": "FC Fratria 🆚 FK Hebar Pazardzhik",
+      "league": "Bulgaria – Vtora Liga",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
       "time": "13:00",
-      "status": "lost",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-15T11:30:00Z"
     }
