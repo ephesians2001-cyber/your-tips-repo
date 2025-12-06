@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "ASO Cheif  🆚 Js El Bair",
-      "league": "Algeria – Coupe d’Algerie",
-      "tip": "Home or Away",
+      "match": "Aston Villa 🆚 Arsenal",
+      "league": "England Premier League",
+      "tip": "Arsenal over 0.5 Goals",
       "odds": 1.25,
-      "time": "15:00",
-      "status": "won",
+      "time": "12:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
