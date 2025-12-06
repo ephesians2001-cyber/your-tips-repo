@@ -4,22 +4,22 @@
 
   "tips": [
     {
-      "match": "ACS Viitorul  🆚 ACS Unirea Dmo",
-      "league": "Romania – Liga 3",
-      "tip": "Home Wins",
-      "odds": 1.16,
+      "match": "Singapore  🆚 Timor-Leste",
+      "league": "Int. Youth – U22 Southast Asian Games",
+      "tip": "Over 2.5 Goals",
+      "odds": 1.23,
       "time": "12:00",
-      "status": "lost",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Academica Bals  🆚 Acso Filiasi",
-      "league": "Romania – Liga 3",
-      "tip": "Home or Draw",
+      "match": "Villarreal  🆚 Getafe",
+      "league": "Spain - LaLiga",
+      "tip": " Villarreal Over 0.5 Goals",
       "odds": 1.19,
-      "time": "12:00",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
@@ -29,7 +29,7 @@
       "tip": "Mainz Over 0.5 Goals",
       "odds": 1.19,
       "time": "19:30",
-      "status": "lost",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
