@@ -4,11 +4,11 @@
 
   "tips": [
     {
-      "match": "Bologna  🆚 US Cremonese",
-      "league": "Italy Serie A",
-      "tip": "Home Over 0.5 Goals",
-      "odds": 1.19,
-      "time": "19:45",
+      "match": "Aston Villa 🆚 Arsenal",
+      "league": "England Premier League",
+      "tip": "Arsenal over 0.5 Goals",
+      "odds": 1.25,
+      "time": "12:30",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"

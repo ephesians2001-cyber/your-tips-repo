@@ -1,0 +1,36 @@
+
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Leeds Utd  🆚 Liverpool",
+      "league": "England Premier League",
+      "tip": "Liverpool Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "17:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Athletic Bilbao  🆚 Atletico Madrid",
+      "league": "Spain - LaLiga",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.19,
+      "time": "20:00",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "PSG 🆚 Rennes",
+      "league": "France – Ligue 1",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.19,
+      "time": "20:00",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
