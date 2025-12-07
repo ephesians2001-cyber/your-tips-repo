@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Aston Villa 🆚 Arsenal",
+      "match": "Brighton 🆚 West Ham",
       "league": "England Premier League",
-      "tip": "Arsenal over 0.5 Goals",
+      "tip": "Brighton over 0.5 Goals",
       "odds": 1.25,
-      "time": "12:30",
-      "status": "won",
+      "time": "14:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
