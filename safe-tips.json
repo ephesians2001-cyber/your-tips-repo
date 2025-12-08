@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "AJ Auxerre  🆚 Metz",
-      "league": "France – Ligue 1",
-      "tip": "Auxerre Over 0.5 Goals",
+      "match": "Wolves  🆚 Man Utd",
+      "league": "England Premier League",
+      "tip": "Away Over 0.5 Goals",
       "odds": 1.23,
-      "time": "16:15",
-      "status": "won",
+      "time": "20:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Nice  🆚  Angers",
-      "league": "France – Ligue 1",
-      "tip": " Nice Over 0.5 Goals",
-      "odds": 1.19,
-      "time": "14:00",
-      "status": "lost",
+      "match": "FC Torino  🆚  AC Milan",
+      "league": "Italy Serie A",
+      "tip": " Milan Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "19:45",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Cagliari 🆚 Roma",
+      "match": "Udinese 🆚 Genoa",
       "league": "Italy – Serie A",
-      "tip": "Under 4.5 Goals",
+      "tip": "Under 3.5 Goals",
       "odds": 1.19,
-      "time": "14:30",
-      "status": "won",
+      "time": "17:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
