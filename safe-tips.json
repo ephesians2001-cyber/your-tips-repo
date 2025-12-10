@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Inter Milano  🆚 Liverpool",
-      "league": "Int. Youth – UEFA Youth League",
-      "tip": "Inter Over 0.5 Goals",
+      "match": "Bayer Leverkusen  🆚 Newcastle",
+      "league": "Int. Clubs – UEFA Youth League",
+      "tip": "Bayer Over 0.5 Goals",
       "odds": 1.19,
-      "time": "15:00",
-      "status": "won",
+      "time": "20:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Barcelona  🆚  Eintracht Frankfurt",
-      "league": "Int. Youth – UEFA Youth League",
-      "tip": "Over 2.5 Goals",
+      "match": "Benfica  🆚  Napoli",
+      "league": "Int. Clubs – UEFA Youth League",
+      "tip": "Benfica Over 0.5 Goals",
       "odds": 1.25,
-      "time": "15:00",
-      "status": "won",
+      "time": "20:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Araz Nakhchivan 🆚 FK Kapaz",
-      "league": "Azerbaijan – Premier League",
-      "tip": "Under 4.5 Goals",
+      "match": "Club Brugge 🆚 Arsenal",
+      "league": "Int. Clubs – UEFA Champions League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "13:00",
-      "status": "won",
+      "time": "20:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
