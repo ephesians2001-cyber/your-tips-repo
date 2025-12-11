@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Borussia Dortmund  🆚 Bodoe/Glimt",
+      "league": "Inter Clubs – UEFA Champions League",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.40,
+      "time": "20:00",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Villarreal  🆚 Copenhagen",
+      "league": "Inter Clubs – UEFA Champions League",
+      "tip": "Home or Draw",
+      "odds": 1.19,
+      "time": "20:00",
+      "status": "lost",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Athletic Bilbao 🆚 PSG",
+      "league": "Inter Clubs – UEFA Champions League",
+      "tip": "PSG Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "20:00",
+      "status": "lost",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
