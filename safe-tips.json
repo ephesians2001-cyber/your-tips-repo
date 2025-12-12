@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Ferencvarosi Budapest  🆚 Rangers",
-      "league": "Int. Clubs – UEFA Youth League",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Kitara FC  🆚 Maroons FC",
+      "league": "Uganda – Premier league",
+      "tip": "Kitara Wins or Draw",
       "odds": 1.19,
-      "time": "20:00",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Palestine  🆚  Saudi Arabia",
-      "league": "Int. Arab Cup",
-      "tip": "Under 3.5 Goals",
+      "match": "AL Tadamon Sour  🆚  Nejmeh SC",
+      "league": "Lebanon – Premier League",
+      "tip": "Home or Away",
       "odds": 1.25,
-      "time": "17:00",
-      "status": "won",
+      "time": "12:15",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "SC Villa 🆚 URA FC",
-      "league": "Uganda – Premier League",
-      "tip": "Under 3.5 Goals",
+      "match": "ACS Inainte Modelu 🆚 AS FC Agricola Borcea",
+      "league": "Romania – Liga 3",
+      "tip": "Home or Away",
       "odds": 1.19,
-      "time": "17:00",
-      "status": "won",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
