@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Kitara FC  🆚 Maroons FC",
-      "league": "Uganda – Premier league",
-      "tip": "Kitara Wins or Draw",
+      "match": "Eintracht Frankfurt  🆚 Augsburg",
+      "league": "Germany - Bundesliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "13:00",
-      "status": "won",
+      "time": "14:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AL Tadamon Sour  🆚  Nejmeh SC",
-      "league": "Lebanon – Premier League",
-      "tip": "Home or Away",
+      "match": "Borussia M’gladbach  🆚  Wolfsburg",
+      "league": "Germany - Bundesliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.25,
-      "time": "12:15",
-      "status": "lost",
+      "time": "14:30",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "ACS Inainte Modelu 🆚 AS FC Agricola Borcea",
-      "league": "Romania – Liga 3",
-      "tip": "Home or Away",
-      "odds": 1.19,
-      "time": "12:00",
-      "status": "lost",
+      "match": "FC Torino 🆚 US Cremonese",
+      "league": "Italy – Serie A",
+      "tip": "Torino Over 0.5 Goals",
+      "odds": 1.27,
+      "time": "14:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
