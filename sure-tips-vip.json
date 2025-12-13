@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "CFR Cluj  🆚 AFK Csikszereda",
-      "league": "Romania - Superliga",
-      "tip": "Over 1.5 Goals",
+      "match": "Atalanta  🆚 Cagliari",
+      "league": "Italy – Serie A",
+      "tip": " Atalanta over 0.5 Goals",
       "odds": 1.18,
-      "time": "18:30",
-      "status": "won",
+      "time": "19:30",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Sanat Naft Abadan  🆚 Navad Urmia FC",
-      "league": "Iran – Azadagan League",
-      "tip": "Sanat Wins or Draw",
-      "odds": 1.21,
+      "match": "Metz  🆚 PSG",
+      "league": "France – Ligue 1",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.15,
       "time": "13:00",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Police FC 🆚 Gasogi United",
-      "league": "Rwanda – Premier League",
-      "tip": "Police Wins or Draw",
+      "match": "Liverpool 🆚 Brighton",
+      "league": "England – Premier League",
+      "tip": "Liverpool over 0.5 Goals",
       "odds": 1.19,
-      "time": "13:00",
-      "status": "won",
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
