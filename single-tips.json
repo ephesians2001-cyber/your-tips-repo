@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Chanthaburi 🆚 Pattani FC",
-      "league": "Thailand – Thai League 2",
-      "tip": "Chanthaburi Home or Draw",
-      "odds": 1.28,
-      "time": "12:00",
-      "status": "lost",
+      "match": "Atletico Madrid 🆚 Valencia",
+      "league": "Spain - LaLiga",
+      "tip": "Atletico Wins",
+      "odds": 1.31,
+      "time": "13:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
