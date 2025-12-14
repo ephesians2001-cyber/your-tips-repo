@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Eintracht Frankfurt  🆚 Augsburg",
-      "league": "Germany - Bundesliga",
+      "match": "Crystal Palace  🆚 Man City",
+      "league": "England Premier League",
       "tip": "Home Over 0.5 Goals",
       "odds": 1.19,
-      "time": "14:30",
-      "status": "won",
+      "time": "14:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Borussia M’gladbach  🆚  Wolfsburg",
-      "league": "Germany - Bundesliga",
-      "tip": "Home Over 0.5 Goals",
+      "match": "AC Milan  🆚  Sassuolo",
+      "league": "Italy – Serie A",
+      "tip": "Milan Over 0.5 Goals",
       "odds": 1.25,
-      "time": "14:30",
-      "status": "won",
+      "time": "11:30",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "FC Torino 🆚 US Cremonese",
-      "league": "Italy – Serie A",
-      "tip": "Torino Over 0.5 Goals",
+      "match": "Strasbourg 🆚 Lorient",
+      "league": "France – Ligue 1",
+      "tip": "Strasbourg Over 0.5 Goals",
       "odds": 1.27,
-      "time": "14:00",
-      "status": "won",
+      "time": "16:15",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
