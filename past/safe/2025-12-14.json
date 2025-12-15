@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+  "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
+  "tips": [
+    {
+      "match": "Crystal Palace  🆚 Man City",
+      "league": "England Premier League",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "14:00",
+      "status": "lost",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "AC Milan  🆚  Sassuolo",
+      "league": "Italy – Serie A",
+      "tip": "Milan Over 0.5 Goals",
+      "odds": 1.25,
+      "time": "11:30",
+      "status": "won",
+      "confidence": 80,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Strasbourg 🆚 Lorient",
+      "league": "France – Ligue 1",
+      "tip": "Strasbourg Over 0.5 Goals",
+      "odds": 1.27,
+      "time": "16:15",
+      "status": "lost",
+      "confidence": 80,
+      "createdAt": "2024-01-13T11:30:00Z"
+    }
+  ]
+}
