@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Crystal Palace  🆚 Man City",
-      "league": "England Premier League",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Sakaryaspor  🆚 Hatayspor Antakya",
+      "league": "Turkiye -1. Lig",
+      "tip": " Over 1.5 Goals",
       "odds": 1.19,
-      "time": "14:00",
-      "status": "lost",
+      "time": "17:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AC Milan  🆚  Sassuolo",
-      "league": "Italy – Serie A",
-      "tip": "Milan Over 0.5 Goals",
+      "match": "Farul Constanta  🆚  FC Uta Arad",
+      "league": "Romania - Superliga",
+      "tip": "Under 4.5 Goals",
       "odds": 1.25,
       "time": "11:30",
-      "status": "won",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Strasbourg 🆚 Lorient",
-      "league": "France – Ligue 1",
-      "tip": "Strasbourg Over 0.5 Goals",
+      "match": "Rivers Utd 🆚 Wikki Tourists FC",
+      "league": "Nigeria Premier League",
+      "tip": "Under 3.5 Goals",
       "odds": 1.27,
       "time": "16:15",
-      "status": "lost",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
