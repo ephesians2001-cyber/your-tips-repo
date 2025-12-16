@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Man Utd 🆚 Bournemouth",
-      "league": "England Premier League",
-      "tip": " Home Over 0.5 Goals",
+      "match": "Eibar 🆚 Elche CF",
+      "league": "Spain – Copa Del Rey",
+      "tip": " Under 3.5 Goals",
       "odds": 1.18,
-      "time": "20:00",
-      "status": "won",
+      "time": "18:00",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Braga  🆚 Santa Clara Azores",
-      "league": "Portugal – Liga Portugal",
-      "tip": "Braga Wins or Draws",
+      "match": "Cardiff City  🆚 Chelsea",
+      "league": "England – EFL Cup",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "18:45",
-      "status": "won",
+      "time": "20:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Maccabi Tel Aviv 🆚 Hapoel Petah ",
-      "league": "Israel – Premier League",
-      "tip": "Home Wins or Draw",
+      "match": "South Africa 🆚 Ghana ",
+      "league": "Int. Friendly Games",
+      "tip": "Under 4.5 Goals",
       "odds": 1.19,
-      "time": "18:00",
-      "status": "won",
+      "time": "14:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
