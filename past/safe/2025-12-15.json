@@ -4,31 +4,31 @@
 
   "tips": [
     {
-      "match": "Inter Milano  🆚 Liverpool",
-      "league": "Int. Youth – UEFA Youth League",
-      "tip": "Inter Over 0.5 Goals",
+      "match": "Sakaryaspor  🆚 Hatayspor Antakya",
+      "league": "Turkiye -1. Lig",
+      "tip": " Over 1.5 Goals",
       "odds": 1.19,
-      "time": "15:00",
+      "time": "17:00",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Barcelona  🆚  Eintracht Frankfurt",
-      "league": "Int. Youth – UEFA Youth League",
-      "tip": "Over 2.5 Goals",
+      "match": "Farul Constanta  🆚  FC Uta Arad",
+      "league": "Romania - Superliga",
+      "tip": "Under 4.5 Goals",
       "odds": 1.25,
-      "time": "15:00",
+      "time": "11:30",
       "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Araz Nakhchivan 🆚 FK Kapaz",
-      "league": "Azerbaijan – Premier League",
-      "tip": "Under 4.5 Goals",
-      "odds": 1.19,
-      "time": "13:00",
+      "match": "Rivers Utd 🆚 Wikki Tourists FC",
+      "league": "Nigeria Premier League",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.27,
+      "time": "16:15",
       "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
