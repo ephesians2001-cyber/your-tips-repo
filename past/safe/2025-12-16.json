@@ -4,31 +4,31 @@
 
   "tips": [
     {
-      "match": "Bayer Leverkusen  🆚 Newcastle",
-      "league": "Int. Clubs – UEFA Youth League",
-      "tip": "Bayer Over 0.5 Goals",
+      "match": "Kampala Capital City  🆚 Buhimba Utd Saints",
+      "league": "Uganda – Premier League",
+      "tip": " Home wins",
       "odds": 1.19,
-      "time": "20:00",
+      "time": "17:00",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Benfica  🆚  Napoli",
-      "league": "Int. Clubs – UEFA Youth League",
-      "tip": "Benfica Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "20:00",
+      "match": "Hapoel Tel Aviv  🆚  Hapoel Ironi Kiryat",
+      "league": "Israel – U19 Premier League",
+      "tip": "Home or Draw",
+      "odds": 1.16,
+      "time": "13:45",
       "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Club Brugge 🆚 Arsenal",
-      "league": "Int. Clubs – UEFA Champions League",
+      "match": "AL Saqer FC 🆚 AL Kawkab",
+      "league": "Turkiye Amateur – 2. Lig",
       "tip": "Over 1.5 Goals",
-      "odds": 1.19,
-      "time": "20:00",
+      "odds": 1.27,
+      "time": "12:20",
       "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
