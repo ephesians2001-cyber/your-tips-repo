@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Kampala Capital City  🆚 Buhimba Utd Saints",
-      "league": "Uganda – Premier League",
-      "tip": " Home wins",
-      "odds": 1.19,
-      "time": "17:00",
-      "status": "won",
+      "match": "Fortuna Sacco  🆚 FC Talanta",
+      "league": "Kenya – Premier League",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.14,
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Hapoel Tel Aviv  🆚  Hapoel Ironi Kiryat",
-      "league": "Israel – U19 Premier League",
-      "tip": "Home or Draw",
+      "match": "Tuzlaspor  🆚  Batman Petrolspor",
+      "league": "Turkiye Amateur – 2. Lig",
+      "tip": "Under 3.5 Goals",
       "odds": 1.16,
-      "time": "13:45",
-      "status": "won",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "AL Saqer FC 🆚 AL Kawkab",
+      "match": "Bucaspor 🆚 Altinordu FK",
       "league": "Turkiye Amateur – 2. Lig",
-      "tip": "Over 1.5 Goals",
+      "tip": "Under 3.5 Goals",
       "odds": 1.27,
-      "time": "12:20",
-      "status": "won",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
