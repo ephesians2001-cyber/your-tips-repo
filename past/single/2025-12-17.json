@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "JSM Bejaia 🆚 WA Boufarik",
-      "league": "Algeria – Coupe d’Algerie",
+      "match": "Mathare Utd 🆚 Sofapaka FC",
+      "league": "Kenya – Premier League",
       "tip": "Under 3.5 Goals",
-      "odds": 1.18,
-      "time": "13:00",
-      "status": "lost",
+      "odds": 1.22,
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }

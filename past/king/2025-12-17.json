@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "PSG  🆚 CR Flamengo RJ",
+      "league": "Int. Clubs – FIFA Intercontinental Cup",
+      "tip": " PSG Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "17:00",
+      "status": "Pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "FC Porto  🆚 SC Braga",
+      "league": "Portugal – U19 Campeonato Nacional",
+      "tip": "Home or Away",
+      "odds": 1.15,
+      "time": "15:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Maroons FC 🆚 Express FC ",
+      "league": "Uganda – Premier League",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.25,
+      "time": "13:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
