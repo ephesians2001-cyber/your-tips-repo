@@ -3,9 +3,9 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "PSG  🆚 CR Flamengo RJ",
-      "league": "Int. Clubs – FIFA Intercontinental Cup",
-      "tip": " PSG Over 0.5 Goals",
+      "match": "Santa Clara Azores  🆚 Sporting",
+      "league": "Portugal – Taca de Portugal",
+      "tip": " Sporting Over 0.5 Goals",
       "odds": 1.19,
       "time": "17:00",
       "status": "Pending",
@@ -13,21 +13,21 @@
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "FC Porto  🆚 SC Braga",
-      "league": "Portugal – U19 Campeonato Nacional",
-      "tip": "Home or Away",
+      "match": "Napoli  🆚 AC Milan",
+      "league": "Italy - Supercoppa",
+      "tip": "Under 3.5 Goals",
       "odds": 1.15,
-      "time": "15:00",
+      "time": "19:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Maroons FC 🆚 Express FC ",
-      "league": "Uganda – Premier League",
-      "tip": "Under 3.5 Goals",
+      "match": "Crystal Palace 🆚 Kuopion Palloseura ",
+      "league": "Int. Clubs – UEFA Conference League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "13:00",
+      "time": "20:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
