@@ -4,9 +4,9 @@
 
   "tips": [
     {
-      "match": "Fortuna Sacco  🆚 FC Talanta",
-      "league": "Kenya – Premier League",
-      "tip": "Under 3.5 Goals",
+      "match": "Shakhtar D  🆚 HNK Rijeka",
+      "league": "Int. Club – UEFA Conference League",
+      "tip": " Shakhtar Over 0.5 Goals",
       "odds": 1.14,
       "time": "12:00",
       "status": "pending",
@@ -14,21 +14,21 @@
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Tuzlaspor  🆚  Batman Petrolspor",
-      "league": "Turkiye Amateur – 2. Lig",
-      "tip": "Under 3.5 Goals",
-      "odds": 1.16,
-      "time": "12:00",
+      "match": "Porto 🆚 FC Famalicao",
+      "league": "Portugal Taca de portugal",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.15,
+      "time": "20:00",
       "status": "pending",
-      "confidence": 80,
+      "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Bucaspor 🆚 Altinordu FK",
-      "league": "Turkiye Amateur – 2. Lig",
-      "tip": "Under 3.5 Goals",
-      "odds": 1.27,
-      "time": "12:00",
+      "match": "Real Murcia FC 🆚 Betis",
+      "league": "Spain – Copa del Rey",
+      "tip": "Betis Under 3.5 Goals",
+      "odds": 1.18,
+      "time": "20:00",
       "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
