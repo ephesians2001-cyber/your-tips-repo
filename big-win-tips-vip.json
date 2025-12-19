@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Santa Clara Azores  🆚 Sporting",
-      "league": "Portugal – Taca de Portugal",
-      "tip": " Sporting Over 0.5 Goals",
+      "match": "FC Dinamo  🆚 FK Vora",
+      "league": "Albania – Kategoria Superiore",
+      "tip": " Dinamo Over 0.5 Goals",
       "odds": 1.19,
-      "time": "17:00",
-      "status": "won",
+      "time": "15:30",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Napoli  🆚 AC Milan",
-      "league": "Italy - Supercoppa",
+      "match": "Petrojet FC  🆚 Ismaily SC",
+      "league": "Egypt – League Cup",
       "tip": "Under 3.5 Goals",
       "odds": 1.15,
-      "time": "19:00",
-      "status": "won",
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Crystal Palace 🆚 Kuopion Palloseura ",
-      "league": "Int. Clubs – UEFA Conference League",
-      "tip": "Over 1.5 Goals",
+      "match": "NK Varazdin 🆚 NK Istra 1961 ",
+      "league": "Croatia - HNL",
+      "tip": "Under 3.5 Goals",
       "odds": 1.25,
-      "time": "20:00",
-      "status": "won",
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
