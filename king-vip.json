@@ -1,34 +1,34 @@
 {
   "lastUpdated": "2025-10-24T14:30:00Z",
-   "note": "Today's matches have been carefully analysed. Remember to bet responsibly!",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "FC Dinamo  🆚 FK Vora",
-      "league": "Albania – Kategoria Superiore",
-      "tip": " Dinamo Over 0.5 Goals",
+      "match": "Everton  🆚 Arsenal",
+      "league": "England – Premier League",
+      "tip": " Under 4.5 Goals",
       "odds": 1.19,
-      "time": "15:30",
-      "status": "won",
+      "time": "20:00",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Petrojet FC  🆚 Ismaily SC",
-      "league": "Egypt – League Cup",
+      "match": "Juventus  🆚 Roma",
+      "league": "Italy – Serie A",
       "tip": "Under 3.5 Goals",
       "odds": 1.15,
-      "time": "15:00",
-      "status": "won",
+      "time": "19:45",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "NK Varazdin 🆚 NK Istra 1961 ",
-      "league": "Croatia - HNL",
-      "tip": "Under 3.5 Goals",
+      "match": "Tottenham 🆚 Liverpool",
+      "league": "England – Premier League",
+      "tip": "Liverpool Over 0.5 Goals",
       "odds": 1.25,
-      "time": "15:00",
-      "status": "lost",
+      "time": "17:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
