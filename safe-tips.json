@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Hussein Dey  🆚 Bechar Djedid",
-      "league": "Algeria – Ligue 2",
-      "tip": "Hussein Wins",
-      "odds": 1.14,
-      "time": "14:45",
-      "status": "lost",
+      "match": "Man City  🆚 West Ham",
+      "league": "England – Premier League",
+      "tip": "Man City Wins",
+      "odds": 1.25,
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Sitra Club 🆚 Aali",
-      "league": "Bahrain – Premier League",
-      "tip": "Under 3.5 Goals",
+      "match": "Bournemouth 🆚 Burnley",
+      "league": "England – Premier League",
+      "tip": "Bournemouth Over 0.5 Goals",
       "odds": 1.15,
-      "time": "13:15",
-      "status": "won",
+      "time": "15:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "AL Hidd 🆚 AL Khaldiya SC",
-      "league": "Bahrain – Premier League",
-      "tip": " Under 4.5 Goals",
+      "match": "Augsburg 🆚 Werder Bremen",
+      "league": "Germany - Bundesliga",
+      "tip": " Augsburg 4.5 Goals",
       "odds": 1.18,
-      "time": "13:15",
-      "status": "won",
+      "time": "14:30",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
