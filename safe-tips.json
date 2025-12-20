@@ -9,7 +9,7 @@
       "tip": "Man City Wins",
       "odds": 1.25,
       "time": "15:00",
-      "status": "pending",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
@@ -19,17 +19,17 @@
       "tip": "Bournemouth Over 0.5 Goals",
       "odds": 1.15,
       "time": "15:00",
-      "status": "pending",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
       "match": "Augsburg 🆚 Werder Bremen",
       "league": "Germany - Bundesliga",
-      "tip": " Augsburg 4.5 Goals",
+      "tip": " Augsburg Under 4.5 Goals",
       "odds": 1.18,
       "time": "14:30",
-      "status": "pending",
+      "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
