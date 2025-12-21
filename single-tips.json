@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Newcastle 🆚 Chelsea",
-      "league": "England – Premier League",
-      "tip": "Newcastle Over 0.5 Goals",
+      "match": "FC Felgueiras 🆚 FC Porto B",
+      "league": "Portugal – Liga Portugal 2",
+      "tip": "Under 3.5 Goals",
       "odds": 1.75,
-      "time": "12:30",
-      "status": "won",
+      "time": "11:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
