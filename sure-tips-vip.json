@@ -3,32 +3,32 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Everton  🆚 Arsenal",
+      "match": "Aston Villa  🆚 Man Utd",
       "league": "England – Premier League",
-      "tip": " Under 4.5 Goals",
-      "odds": 1.19,
-      "time": "20:00",
-      "status": "won",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.20,
+      "time": "16:30",
+      "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Juventus  🆚 Roma",
-      "league": "Italy – Serie A",
-      "tip": "Under 3.5 Goals",
+      "match": "Villarreal  🆚 Barcelona",
+      "league": "Spain - LaLiga",
+      "tip": "Over 2.5 Goals",
       "odds": 1.15,
-      "time": "19:45",
-      "status": "won",
+      "time": "15:15",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Tottenham 🆚 Liverpool",
-      "league": "England – Premier League",
-      "tip": "Liverpool Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "17:30",
-      "status": "won",
+      "match": "Mainz 🆚 FC St. Pauli",
+      "league": "Germany - Bundesliga",
+      "tip": "Mainz Over 0.5 Goals",
+      "odds": 1.27,
+      "time": "14:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
