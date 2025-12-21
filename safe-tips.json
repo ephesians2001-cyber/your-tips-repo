@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Man City  🆚 West Ham",
-      "league": "England – Premier League",
-      "tip": "Man City Wins",
+      "match": "Girona  🆚 Atletico Madrid",
+      "league": "Spain - LaLiga",
+      "tip": "Madrid Over 0.5 Goals",
       "odds": 1.25,
-      "time": "15:00",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Bournemouth 🆚 Burnley",
-      "league": "England – Premier League",
-      "tip": "Bournemouth Over 0.5 Goals",
-      "odds": 1.15,
-      "time": "15:00",
-      "status": "won",
+      "match": "MKE Ankaragucu 🆚 Erbaaspor",
+      "league": "Turkiye Amateur – 2. Lig",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.25,
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Augsburg 🆚 Werder Bremen",
-      "league": "Germany - Bundesliga",
-      "tip": " Augsburg Under 4.5 Goals",
-      "odds": 1.18,
-      "time": "14:30",
-      "status": "won",
+      "match": "Torrelavega 🆚 Castro FC",
+      "league": "Spain Amateur – Tercera Federacion, Group 3",
+      "tip": " Torrelavega Wins",
+      "odds": 1.24,
+      "time": "11:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
