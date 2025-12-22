@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Girona  🆚 Atletico Madrid",
-      "league": "Spain - LaLiga",
-      "tip": "Madrid Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "13:00",
-      "status": "won",
+      "match": "FC Famalicao  🆚 CS Maritimo",
+      "league": "Portugal – U23 Liga Revelacao",
+      "tip": " Famalicao Wins or Draw",
+      "odds": 1.16,
+      "time": "14:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "MKE Ankaragucu 🆚 Erbaaspor",
-      "league": "Turkiye Amateur – 2. Lig",
-      "tip": "Under 4.5 Goals",
-      "odds": 1.25,
-      "time": "12:00",
-      "status": "won",
+      "match": "Istanbul BB 🆚 Gaziantep FK",
+      "league": "Turkiye Super Lig",
+      "tip": " Istanbul Over 0.5 Goals",
+      "odds": 1.17,
+      "time": "14:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Torrelavega 🆚 Castro FC",
-      "league": "Spain Amateur – Tercera Federacion, Group 3",
-      "tip": " Torrelavega Wins",
-      "odds": 1.24,
-      "time": "11:00",
-      "status": "won",
+      "match": "Kakamega 🆚 Kenya Police FC",
+      "league": "Kenya – Premier league",
+      "tip": " Under 3.5 Goals",
+      "odds": 1.19,
+      "time": "12:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
