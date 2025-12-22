@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Thailand 🆚 Malaysia",
-      "league": "Int. Youth – U22 Southeast Asian Games",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.22,
-      "time": "13:00",
-      "status": "lost",
+      "match": "FC Felgueiras 🆚 FC Porto B",
+      "league": "Portugal – Liga Portugal 2",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.75,
+      "time": "11:00",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
