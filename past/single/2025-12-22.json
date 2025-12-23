@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Somaspor 🆚 Bursaspor",
-      "league": "Turkiye Amateur – 2. Lig",
-      "tip": "Over 1.5 Goals",
-      "odds": 1.22,
+      "match": "Semen Padang 🆚 Persija Jakarta",
+      "league": "Indonesia – Super League",
+      "tip": " Persija Over 0.5 Goals",
+      "odds": 1.19,
       "time": "12:00",
-      "status": "won",
+      "status": "lost",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }

@@ -3,31 +3,31 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Eibar 🆚 Elche CF",
-      "league": "Spain – Copa Del Rey",
-      "tip": " Under 3.5 Goals",
-      "odds": 1.18,
-      "time": "18:00",
+      "match": "Genclerbirligi SK  🆚 Trabzonspor",
+      "league": "Turkiye – Super Lig",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.29,
+      "time": "17:30",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Cardiff City  🆚 Chelsea",
-      "league": "England – EFL Cup",
-      "tip": "Over 1.5 Goals",
+      "match": "Falcons FC  🆚 Bombada",
+      "league": "Gambia – GFA League First Division",
+      "tip": "Under 3.5 Goals",
       "odds": 1.15,
-      "time": "20:00",
+      "time": "16:00",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "South Africa 🆚 Ghana",
-      "league": "Int. Friendly Games",
+      "match": "Tractor Sport Club 🆚 Al Duhail SC",
+      "league": "Int. Clubs – AFC Champions League Elite",
       "tip": "Under 4.5 Goals",
       "odds": 1.19,
-      "time": "14:00",
+      "time": "16:00",
       "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
