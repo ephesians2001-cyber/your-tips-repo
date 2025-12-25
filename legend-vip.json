@@ -8,7 +8,7 @@
       "tip": "Home Over 0.5 Goals",
       "odds": 1.17,
       "time": "17:30",
-      "status": "Pending",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
@@ -18,7 +18,7 @@
       "tip": "Home or Away",
       "odds": 1.15,
       "time": "14:30",
-      "status": "pending",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
@@ -28,7 +28,7 @@
       "tip": "Under 4.5 Goals",
       "odds": 1.19,
       "time": "12:30",
-      "status": "pending",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
     }
