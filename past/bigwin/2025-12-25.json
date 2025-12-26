@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Saint George SC  🆚  Ethiopia Nigd Bank",
+      "league": "Ethiopia – Premier League",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.17,
+      "time": "17:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Al Shahaniya SC  🆚 Al Gharafa U23",
+      "league": "Qatar – U23 Olympic League",
+      "tip": "Home or Away",
+      "odds": 1.15,
+      "time": "14:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Burkina Faso 🆚 Equatorial Guinea",
+      "league": "Saudi Pro League",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.19,
+      "time": "12:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
