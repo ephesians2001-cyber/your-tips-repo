@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Trabzonspor 🆚 Eyupspor",
-      "league": "Turkiye Amateur – U19 PAF Ligi",
-      "tip": "Home or Away",
-      "odds": 1.19,
+      "match": "KRC Genk 🆚 Club Brugge",
+      "league": "Belgium – Pro League"
+      "tip": "Under 4.5 Goals",
+      "odds": 1.25,
       "time": "12:00",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
