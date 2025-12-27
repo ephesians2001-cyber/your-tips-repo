@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "KRC Genk 🆚 Club Brugge",
-      "league": "Belgium – Pro League"
-      "tip": "Under 4.5 Goals",
+      "match": "Nigeria 🆚 Tunisia",
+      "league": "Int. African cup of nations"
+      "tip": "Under 3.5 Goals",
       "odds": 1.25,
-      "time": "12:00",
-      "status": "lost",
+      "time": "20:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
