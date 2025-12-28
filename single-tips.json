@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2025-01-15T14:30:00Z",
+  "lastUpdated": "2024-01-15T14:30:00Z",
   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
 
   "tips": [
     {
-      "match": "Nigeria 🆚 Tunisia",
-      "league": "Int. African cup of nations"
-      "tip": "Under 3.5 Goals",
+      "match": "Sporting 🆚 Rio Ave FC",
+      "league": "Portugal – Liga Portugal"
+      "tip": "Over 1.5 Goals",
       "odds": 1.25,
-      "time": "20:00",
-      "status": "lost",
+      "time": "20:30",
+      "status": "pending",
       "confidence": 90,
-      "createdAt": "2025-01-14T09:15:00Z"
+      "createdAt": "2024-01-14T09:15:00Z"
     }
   ]
 }
