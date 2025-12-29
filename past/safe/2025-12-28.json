@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+  "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
+  "tips": [
+    {
+      "match": "Algeria  🆚 Burkina Faso",
+      "league": "Int. African cup of nations",
+      "tip": " Algeria Over 0.5 Goals",
+      "odds": 1.16,
+      "time": "14:50",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Atalanta 🆚 Inter",
+      "league": "Italy – Serie A",
+      "tip": " Inter Over 0.5 Goals",
+      "odds": 1.17,
+      "time": "12:30",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Ivory Coast 🆚 Cameroon",
+      "league": "Int. African cup of nations",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.27,
+      "time": "11:30",
+      "status": "pending",
+      "confidence": 80,
+      "createdAt": "2024-01-13T11:30:00Z"
+    }
+  ]
+}
