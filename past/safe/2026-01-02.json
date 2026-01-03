@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Morocco  🆚 Mali",
-      "league": "Int. African cup of nations",
-      "tip": "Morocco Over 0.5 Goals",
+      "match": "Coventry City  🆚 Ipswich Town",
+      "league": "England - Championship",
+      "tip": "Ipswich Over 0.5 Goals",
       "odds": 1.16,
-      "time": "14:50",
-      "status": "won",
+      "time": "18:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Benin 🆚 Botswana",
+      "match": "Zambia 🆚 Morocco",
       "league": "Int. African cup of nations",
-      "tip": "Over 0.5 Goals",
+      "tip": "Under 4.5 Goals",
       "odds": 1.17,
       "time": "12:30",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Parma 🆚 Fiorentina",
-      "league": "Italy Serie A",
-      "tip": "Under 3.5 Goals",
+      "match": "Comoros 🆚 Mali",
+      "league": "Int. African cup of nations",
+      "tip": "Mali Over 0.5 Goals",
       "odds": 1.27,
-      "time": "11:30",
-      "status": "won",
+      "time": "19:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
