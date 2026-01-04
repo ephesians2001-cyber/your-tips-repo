@@ -4,19 +4,19 @@
 
   "tips": [
     {
-      "match": "Algeria  🆚 Burkina Faso",
-      "league": "Int. African cup of nations",
-      "tip": " Algeria Over 0.5 Goals",
+      "match": "Coventry City  🆚 Ipswich Town",
+      "league": "England - Championship",
+      "tip": "Ipswich Over 0.5 Goals",
       "odds": 1.16,
-      "time": "14:50",
+      "time": "18:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Atalanta 🆚 Inter",
-      "league": "Italy – Serie A",
-      "tip": " Inter Over 0.5 Goals",
+      "match": "Zambia 🆚 Morocco",
+      "league": "Int. African cup of nations",
+      "tip": "Under 4.5 Goals",
       "odds": 1.17,
       "time": "12:30",
       "status": "pending",
@@ -24,11 +24,11 @@
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Ivory Coast 🆚 Cameroon",
+      "match": "Comoros 🆚 Mali",
       "league": "Int. African cup of nations",
-      "tip": "Under 3.5 Goals",
+      "tip": "Mali Over 0.5 Goals",
       "odds": 1.27,
-      "time": "11:30",
+      "time": "19:00",
       "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
