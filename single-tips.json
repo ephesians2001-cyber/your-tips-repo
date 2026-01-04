@@ -4,11 +4,11 @@
 
   "tips": [
     {
-      "match": "Roma 🆚 Genoa",
+      "match": "Lazio 🆚 Napoli",
       "league": "Italy – Serie A"
-      "tip": "Roma Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "19:45",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "11:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
