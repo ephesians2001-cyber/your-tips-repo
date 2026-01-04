@@ -4,31 +4,31 @@
 
   "tips": [
     {
-      "match": "Coventry City  🆚 Ipswich Town",
-      "league": "England - Championship",
-      "tip": "Ipswich Over 0.5 Goals",
+      "match": "Fulham  🆚 Liverpool",
+      "league": "England – Premier League",
+      "tip": "Liverpool Over 0.5 Goals",
       "odds": 1.16,
-      "time": "18:00",
+      "time": "15:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Zambia 🆚 Morocco",
-      "league": "Int. African cup of nations",
-      "tip": "Under 4.5 Goals",
-      "odds": 1.17,
+      "match": "Everton 🆚 Brentford",
+      "league": "England Premier League",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.27,
       "time": "12:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Comoros 🆚 Mali",
+      "match": "Leeds United 🆚 Man City",
       "league": "Int. African cup of nations",
-      "tip": "Mali Over 0.5 Goals",
-      "odds": 1.27,
-      "time": "19:00",
+      "tip": "Man City Over 0.5 Goals",
+      "odds": 1.29,
+      "time": "12:30",
       "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
