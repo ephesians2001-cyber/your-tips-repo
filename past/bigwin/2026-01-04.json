@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Man City 🆚  Chelsea",
+      "league": "England Premier League",
+      "tip": "City Over 0.5 Goals",
+      "odds": 1.17,
+      "time": "17:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Real Madrid  🆚 Betis",
+      "league": "Spain - LaLiga",
+      "tip": "Madrid Africa Over 0.5 Goals",
+      "odds": 1.15,
+      "time": "15:15",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Newcastle 🆚 Crystal Palace",
+      "league": "England Premier League",
+      "tip": "New Castle Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "15:00",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
