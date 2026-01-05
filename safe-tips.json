@@ -9,7 +9,7 @@
       "tip": "Cologne Over 0.5 Goals",
       "odds": 1.16,
       "time": "14:30",
-      "status": "pending",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
@@ -19,7 +19,7 @@
       "tip": "Over 0.5 Goals",
       "odds": 1.27,
       "time": "14:30",
-      "status": "pending",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
@@ -29,7 +29,7 @@
       "tip": "Nigeria Over 0.5 Goals",
       "odds": 1.29,
       "time": "19:00",
-      "status": "pending",
+      "status": "won",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
