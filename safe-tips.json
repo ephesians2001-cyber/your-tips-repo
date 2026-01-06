@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Cologne 🆚 Lugano",
-      "league": "Inter. Clubs – clubs friendly games",
-      "tip": "Cologne Over 0.5 Goals",
+      "match": "Ivory Coast 🆚 Burkina Faso",
+      "league": "Inter. Africa Cup of Nations",
+      "tip": "Over 0.5 Goals",
       "odds": 1.16,
-      "time": "14:30",
-      "status": "won",
+      "time": "19:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Al Masry Club 🆚 Smouha SC",
-      "league": "Egypt – League Cup",
-      "tip": "Over 0.5 Goals",
+      "match": "US Lecce 🆚 Roma",
+      "league": "Italy – Serie A",
+      "tip": "Roma Over 0.5 Goals",
       "odds": 1.27,
-      "time": "14:30",
-      "status": "won",
+      "time": "17:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Nigeria 🆚 Mozambique",
+      "match": "Algeria 🆚 Congo DR",
       "league": "Int. African cup of nations",
-      "tip": "Nigeria Over 0.5 Goals",
-      "odds": 1.29,
-      "time": "19:00",
-      "status": "won",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.21,
+      "time": "16:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
