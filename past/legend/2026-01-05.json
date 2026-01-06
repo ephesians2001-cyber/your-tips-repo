@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Maccabi Haifa FC 🆚 Hapoel Haifa FC",
+      "league": "Israel Premier League",
+      "tip": "Over 1.5 Goals",
+      "odds": 1.17,
+      "time": "18:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "JS Kabylie  🆚 MB Rouissat",
+      "league": "Algeria – Ligue 1",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.15,
+      "time": "16:45",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "AL Tadamun Buri 🆚 Busaiteen",
+      "league": "Bahrain – First Division",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.19,
+      "time": "16:00",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
