@@ -3,31 +3,31 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Sporting 🆚 Vitoria SC Guimaraes",
-      "league": "Portugal – League Cup",
-      "tip": "Sporting Over 1.5 Goals",
+      "match": "Bologna 🆚 Atalanta",
+      "league": "Italy - Serie A",
+      "tip": "Under 4.5 Goals",
       "odds": 1.17,
-      "time": "20:00",
+      "time": "17:30",
       "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "West Ham  🆚 Nottingham Forest",
-      "league": "England – Premier League",
-      "tip": "West Ham Over 0.5 Goals",
+      "match": "Napoli  🆚 Verona",
+      "league": "Italy - Serie A",
+      "tip": "Napoli Over 0.5 Goals",
       "odds": 1.15,
-      "time": "20:00",
+      "time": "17:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Sassuolo 🆚 Juventus",
-      "league": "Italy – Serie A",
-      "tip": "Juventus Over 0.5 Goals",
+      "match": "Barcelona 🆚 Athletic Bilbao",
+      "league": "Spain - Supercopa",
+      "tip": "Barcelona Over 0.5 Goals",
       "odds": 1.19,
-      "time": "19:45",
+      "time": "19:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
