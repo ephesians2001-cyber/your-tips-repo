@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Man City 🆚 Brighton",
-      "league": "England Premier League"
-      "tip": "City Wins or Draw",
+      "match": "Ben Aknoun 🆚 Olympique Akbou",
+      "league": "Algeria – League 1"
+      "tip": "Over 0.5 Goals",
       "odds": 1.21,
-      "time": "19:30",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
