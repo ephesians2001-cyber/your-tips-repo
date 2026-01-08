@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Bournemouth 🆚 Tottenham",
-      "league": "England Premier League",
-      "tip": "Under 4.5 Goals",
+      "match": "Club Brugge 🆚 Stum Graz",
+      "league": "Inter. clubs Friendly Games",
+      "tip": "Brugge Over 0.5 Goals",
       "odds": 1.16,
-      "time": "19:30",
-      "status": "lost",
+      "time": "14:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Brentford 🆚 Sunderland AFC",
-      "league": "England Premier League",
-      "tip": "Under 4.5 Goals",
+      "match": "El Bayadh 🆚 ES Mostaganem",
+      "league": "Algeria – Ligue 1",
+      "tip": "Under 3.5 Goals",
       "odds": 1.27,
-      "time": "19:30",
-      "status": "won",
+      "time": "13:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Crystal Palace 🆚 Aston Villa",
-      "league": "England Premier League",
-      "tip": "Crystal wins or Draw",
-      "odds": 1.21,
-      "time": "19:30",
-      "status": "won",
+      "match": "Sidama Bunna SC 🆚 Arba Minch Ketema",
+      "league": "Ethiopia – Premier League",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.13,
+      "time": "13:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
