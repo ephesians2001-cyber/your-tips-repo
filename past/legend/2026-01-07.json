@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Bologna 🆚 Atalanta",
+      "league": "Italy - Serie A",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.17,
+      "time": "17:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Napoli  🆚 Verona",
+      "league": "Italy - Serie A",
+      "tip": "Napoli Over 0.5 Goals",
+      "odds": 1.15,
+      "time": "17:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Barcelona 🆚 Athletic Bilbao",
+      "league": "Spain - Supercopa",
+      "tip": "Barcelona Over 0.5 Goals",
+      "odds": 1.19,
+      "time": "19:00",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}

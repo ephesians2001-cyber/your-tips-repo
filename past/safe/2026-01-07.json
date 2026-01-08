@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+  "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
+  "tips": [
+    {
+      "match": "Bournemouth 🆚 Tottenham",
+      "league": "England Premier League",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.16,
+      "time": "19:30",
+      "status": "lost",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Brentford 🆚 Sunderland AFC",
+      "league": "England Premier League",
+      "tip": "Under 4.5 Goals",
+      "odds": 1.27,
+      "time": "19:30",
+      "status": "won",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Crystal Palace 🆚 Aston Villa",
+      "league": "England Premier League",
+      "tip": "Crystal wins or Draw",
+      "odds": 1.21,
+      "time": "19:30",
+      "status": "won",
+      "confidence": 80,
+      "createdAt": "2024-01-13T11:30:00Z"
+    }
+  ]
+}

@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Roma 🆚 Genoa",
-      "league": "Italy – Serie A"
-      "tip": "Roma Over 0.5 Goals",
-      "odds": 1.25,
-      "time": "19:45",
-      "status": "pending",
+      "match": "Man City 🆚 Brighton",
+      "league": "England Premier League"
+      "tip": "City Wins or Draw",
+      "odds": 1.21,
+      "time": "19:30",
+      "status": "won",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
