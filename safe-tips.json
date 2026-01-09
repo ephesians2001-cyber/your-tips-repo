@@ -4,29 +4,29 @@
 
   "tips": [
     {
-      "match": "Club Brugge 🆚 Stum Graz",
-      "league": "Inter. clubs Friendly Games",
-      "tip": "Brugge Over 0.5 Goals",
+      "match": "PSM Makassar 🆚 Bali United FC",
+      "league": "indonesia-Super League",
+      "tip": "Under 4.5 Goals",
       "odds": 1.16,
-      "time": "14:00",
-      "status": "won",
+      "time": "12:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "El Bayadh 🆚 ES Mostaganem",
-      "league": "Algeria – Ligue 1",
-      "tip": "Under 3.5 Goals",
+      "match": "AL Qala 🆚 Al Safa SC",
+      "league": "Saudi Arabia - Second Division",
+      "tip": "Under 4.5 Goals",
       "odds": 1.27,
       "time": "13:00",
-      "status": "won",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Sidama Bunna SC 🆚 Arba Minch Ketema",
-      "league": "Ethiopia – Premier League",
-      "tip": "Over 0.5 Goals",
+      "match": "Hapoel Hagalil FC 🆚 Maccabi Herzliya",
+      "league": "Israel - National League",
+      "tip": "Herzliya Over 0.5 Goals",
       "odds": 1.13,
       "time": "13:00",
       "status": "lost",
