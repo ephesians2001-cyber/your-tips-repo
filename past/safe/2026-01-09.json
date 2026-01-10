@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "Coventry City  🆚 Ipswich Town",
-      "league": "England - Championship",
-      "tip": "Ipswich Over 0.5 Goals",
+      "match": "PSM Makassar 🆚 Bali United FC",
+      "league": "indonesia-Super League",
+      "tip": "Under 4.5 Goals",
       "odds": 1.16,
-      "time": "18:00",
+      "time": "12:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Zambia 🆚 Morocco",
-      "league": "Int. African cup of nations",
+      "match": "AL Qala 🆚 Al Safa SC",
+      "league": "Saudi Arabia - Second Division",
       "tip": "Under 4.5 Goals",
-      "odds": 1.17,
-      "time": "12:30",
+      "odds": 1.27,
+      "time": "13:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Comoros 🆚 Mali",
-      "league": "Int. African cup of nations",
-      "tip": "Mali Over 0.5 Goals",
-      "odds": 1.27,
-      "time": "19:00",
-      "status": "pending",
+      "match": "Hapoel Hagalil FC 🆚 Maccabi Herzliya",
+      "league": "Israel - National League",
+      "tip": "Herzliya Over 0.5 Goals",
+      "odds": 1.13,
+      "time": "13:00",
+      "status": "lost",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }

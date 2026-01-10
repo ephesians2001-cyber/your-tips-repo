@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Mali 🆚 Senegal",
+      "league": "Int. African Cup Of Nations",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.18,
+      "time": "16:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Cameroon  🆚 Morocco",
+      "league": "Int. African Cup Of Nations",
+      "tip": "Morocco Over 0.5 Goals",
+      "odds": 1.20,
+      "time": "19:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Frankfurt 🆚 Dortmund",
+      "league": "Germany Bundesliga",
+      "tip": "Frankfurt Over 0.5 Goals",
+      "odds": 1.14,
+      "time": "19:30",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
