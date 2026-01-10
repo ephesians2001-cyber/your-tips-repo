@@ -4,32 +4,32 @@
 
   "tips": [
     {
-      "match": "PSM Makassar 🆚 Bali United FC",
-      "league": "indonesia-Super League",
-      "tip": "Under 4.5 Goals",
+      "match": "Algeria 🆚 Nigeria",
+      "league": "Int. Africa Cup of Nations",
+      "tip": "Over 0.5 Goals",
       "odds": 1.16,
-      "time": "12:00",
+      "time": "16:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "AL Qala 🆚 Al Safa SC",
-      "league": "Saudi Arabia - Second Division",
-      "tip": "Under 4.5 Goals",
+      "match": "Roma 🆚 Sassuolo",
+      "league": "Italy Serie A",
+      "tip": "Roma Over 0.5 Goals",
       "odds": 1.27,
-      "time": "13:00",
+      "time": "17:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Hapoel Hagalil FC 🆚 Maccabi Herzliya",
-      "league": "Israel - National League",
-      "tip": "Herzliya Over 0.5 Goals",
+      "match": "Egypt 🆚 Ivory Coast",
+      "league": "Int. Africa Cup of Nations",
+      "tip": "Under 3.5 Goals",
       "odds": 1.13,
-      "time": "13:00",
-      "status": "lost",
+      "time": "19:00",
+      "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
     }
