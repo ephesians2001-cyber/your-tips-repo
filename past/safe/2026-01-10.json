@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+  "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
+  "tips": [
+    {
+      "match": "Algeria 🆚 Nigeria",
+      "league": "Int. Africa Cup of Nations",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.16,
+      "time": "16:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Roma 🆚 Sassuolo",
+      "league": "Italy Serie A",
+      "tip": "Roma Over 0.5 Goals",
+      "odds": 1.27,
+      "time": "17:00",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Egypt 🆚 Ivory Coast",
+      "league": "Int. Africa Cup of Nations",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.13,
+      "time": "19:00",
+      "status": "pending",
+      "confidence": 80,
+      "createdAt": "2024-01-13T11:30:00Z"
+    }
+  ]
+}
