@@ -4,31 +4,31 @@
 
   "tips": [
     {
-      "match": "Algeria 🆚 Nigeria",
-      "league": "Int. Africa Cup of Nations",
-      "tip": "Over 0.5 Goals",
+      "match": "Portsmouth FC 🆚 Arsenal",
+      "league": "England FA Cup",
+      "tip": " Over 1.5 Goals",
       "odds": 1.16,
-      "time": "16:00",
+      "time": "14:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Roma 🆚 Sassuolo",
+      "match": "Fiorentina 🆚 AC Milan",
       "league": "Italy Serie A",
-      "tip": "Roma Over 0.5 Goals",
+      "tip": "AC Milan Over 0.5 Goals",
       "odds": 1.27,
-      "time": "17:00",
+      "time": "14:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Egypt 🆚 Ivory Coast",
-      "league": "Int. Africa Cup of Nations",
-      "tip": "Under 3.5 Goals",
-      "odds": 1.13,
-      "time": "19:00",
+      "match": "Rayo Vallecano  🆚 Mallorca",
+      "league": "Spain - LaLiga",
+      "tip": "Vallecano Under 2.5 Goals",
+      "odds": 1.19,
+      "time": "13:00",
       "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
