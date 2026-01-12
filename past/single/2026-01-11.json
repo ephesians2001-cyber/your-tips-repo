@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Egypt 🆚 Benin",
-      "league": "Int – Africa Cup of Nations"
-      "tip": "Over 0.5 Goals",
-      "odds": 1.19,
-      "time": "16:00",
-      "status": "won",
+      "match": "US Lecce 🆚 Parma",
+      "league": "Italy – Serie A"
+      "tip": "Lecce Over 0.5 Goals",
+      "odds": 1.21,
+      "time": "11:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
