@@ -3,31 +3,31 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Liverpool 🆚 Barnsley FC",
-      "league": "England - FA Cup",
-      "tip": "Over 2.5 Goals",
+      "match": "Stuttgart 🆚 Eintracht Frankfurt",
+      "league": "Germany Bundesliga",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.17,
-      "time": "19:30",
+      "time": "17:30",
       "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Sevilla  🆚 Celta",
-      "league": "Spain LaLiga",
-      "tip": "Sevilla Over 0.5 Goals",
+      "match": "Borussia Dortmund  🆚 Werder Bremen",
+      "league": "Germany Bundesliga",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "20:15",
+      "time": "19:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "PSG 🆚 Paris FC",
-      "league": "France Coupe de France",
-      "tip": "Over 1.5 Goals",
+      "match": "Mainz 🆚 Heidenhiem",
+      "league": "Germany Bundesliga",
+      "tip": "Mainz Over 0.5 Goals",
       "odds": 1.14,
-      "time": "20:10",
+      "time": "19:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
