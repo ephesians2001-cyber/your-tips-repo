@@ -4,31 +4,31 @@
 
   "tips": [
     {
-      "match": "Portsmouth FC 🆚 Arsenal",
-      "league": "England FA Cup",
-      "tip": " Over 1.5 Goals",
+      "match": "Al Hilal SFC 🆚 Al Nassr Club",
+      "league": "Saudi Arabia Pro League",
+      "tip": " Home Over 0.5 Goals",
       "odds": 1.16,
-      "time": "14:00",
+      "time": "17:50",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Fiorentina 🆚 AC Milan",
-      "league": "Italy Serie A",
-      "tip": "AC Milan Over 0.5 Goals",
+      "match": "Al-Ittifaq FC 🆚 Al-khaleej Club",
+      "league": "Saudi Arabia Pro League",
+      "tip": "Home Over 0.5 Goals",
       "odds": 1.27,
-      "time": "14:00",
+      "time": "17:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Rayo Vallecano  🆚 Mallorca",
-      "league": "Spain - LaLiga",
-      "tip": "Vallecano Under 2.5 Goals",
+      "match": "Juventus 🆚 US Cremonese",
+      "league": "Italy Serie A",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "13:00",
+      "time": "19:40",
       "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
