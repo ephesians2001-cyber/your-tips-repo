@@ -4,18 +4,18 @@
 
   "tips": [
     {
-      "match": "Al Hilal SFC 🆚 Al Nassr Club",
-      "league": "Saudi Arabia Pro League",
+      "match": "Newcastle 🆚 Man City",
+      "league": "England - EFL Cup",
       "tip": " Home Over 0.5 Goals",
-      "odds": 1.16,
-      "time": "17:50",
+      "odds": 1.26,
+      "time": "20:50",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Al-Ittifaq FC 🆚 Al-khaleej Club",
-      "league": "Saudi Arabia Pro League",
+      "match": "Al Naser Egypt 🆚 Banhan",
+      "league": "Egypt second division",
       "tip": "Home Over 0.5 Goals",
       "odds": 1.27,
       "time": "17:30",
@@ -24,9 +24,9 @@
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Juventus 🆚 US Cremonese",
-      "league": "Italy Serie A",
-      "tip": "Over 1.5 Goals",
+      "match": "URA FC 🆚 Entebbe UPPC FC",
+      "league": "Uganda - Premier League",
+      "tip": "Under 3.5 Goals",
       "odds": 1.19,
       "time": "19:40",
       "status": "pending",
