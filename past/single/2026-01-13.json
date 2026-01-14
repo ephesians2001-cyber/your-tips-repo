@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Man City 🆚 Brighton",
-      "league": "England Premier League"
-      "tip": "City Wins or Draw",
-      "odds": 1.21,
-      "time": "19:30",
-      "status": "won",
+      "match": "Genoa 🆚 Cagliari",
+      "league": "Italy – Serie A"
+      "tip": "Genoa Over 0.5 Goals",
+      "odds": 1.32,
+      "time": "17:30",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }

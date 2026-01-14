@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+  "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+
+  "tips": [
+    {
+      "match": "Newcastle 🆚 Man City",
+      "league": "England - EFL Cup",
+      "tip": " Home Over 0.5 Goals",
+      "odds": 1.26,
+      "time": "20:50",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Al Naser Egypt 🆚 Banhan",
+      "league": "Egypt second division",
+      "tip": "Home Over 0.5 Goals",
+      "odds": 1.27,
+      "time": "17:30",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "URA FC 🆚 Entebbe UPPC FC",
+      "league": "Uganda - Premier League",
+      "tip": "Under 3.5 Goals",
+      "odds": 1.19,
+      "time": "19:40",
+      "status": "pending",
+      "confidence": 80,
+      "createdAt": "2024-01-13T11:30:00Z"
+    }
+  ]
+}
