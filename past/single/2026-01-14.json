@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Ben Aknoun 🆚 Olympique Akbou",
-      "league": "Algeria – League 1"
+      "match": "Nigeria 🆚 Morocco",
+      "league": "Int. Africa Cup of Nations"
       "tip": "Over 0.5 Goals",
-      "odds": 1.21,
-      "time": "13:00",
-      "status": "won",
+      "odds": 1.32,
+      "time": "20:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }

@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2025-10-24T14:30:00Z",
+   "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
+  "tips": [
+    {
+      "match": "Senegal 🆚 Egypt",
+      "league": "Int - African Cup of NATIONS",
+      "tip": "Over 0.5 Goals",
+      "odds": 1.17,
+      "time": "17:00",
+      "status": "Pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "match": "Wolfsburg  🆚 FC St. Pauli",
+      "league": "Germany Bundesliga",
+      "tip": "Wolfsburg Over 0.5 Goals",
+      "odds": 1.15,
+      "time": "17:30",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-14T09:15:00Z"
+    },
+    {
+      "match": "Napoli 🆚 Parma",
+      "league": "Italy - Serie A",
+      "tip": "Napoli Over 0.5 Goals",
+      "odds": 1.14,
+      "time": "17:30",
+      "status": "pending",
+      "confidence": 90,
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ]
+}
