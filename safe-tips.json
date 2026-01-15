@@ -4,31 +4,31 @@
 
   "tips": [
     {
-      "match": "Cologne 🆚 Bayern Munich",
-      "league": "Germany Bundesliga",
-      "tip": " Bayern Over 0.5 Goals",
+      "match": "Como 1907 🆚 AC Milan",
+      "league": "Italy - Serie A",
+      "tip": " Under 4.5 Goals",
       "odds": 1.26,
-      "time": "19:30",
+      "time": "19:45",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Hoffenheim 🆚 Borussia M'gladbach",
-      "league": "Germany Bundesliga",
+      "match": "Racing Santander 🆚 Barcelona",
+      "league": "Spain Copa del Rey",
       "tip": "Over 1.5 Goals",
       "odds": 1.27,
-      "time": "19:30",
+      "time": "20:00",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "RB Leipzig 🆚 Freiburg",
-      "league": "Germany Bundesliga",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Shabab Al Ahli Dubai 🆚 Ajman Club",
+      "league": "Arabian Gulf League",
+      "tip": "Over 1.5 Goals",
       "odds": 1.19,
-      "time": "19:30",
+      "time": "15:45",
       "status": "pending",
       "confidence": 80,
       "createdAt": "2024-01-13T11:30:00Z"
