@@ -4,12 +4,12 @@
 
   "tips": [
     {
-      "match": "Sofapaka FC 🆚 Bidco United",
-      "league": "Kenya - Premier League"
-      "tip": "Over 0.5 Goals",
-      "odds": 1.21,
-      "time": "13:00",
-      "status": "won",
+      "match": "AL Bahrain 🆚 Sitra Club",
+      "league": "Bahrain - Premier League"
+      "tip": "Away Over 0.5 Goals",
+      "odds": 1.32,
+      "time": "16:00",
+      "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     }
