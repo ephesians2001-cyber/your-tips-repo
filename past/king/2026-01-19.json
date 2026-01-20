@@ -3,9 +3,9 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Stuttgart 🆚 Eintracht Frankfurt",
-      "league": "Germany Bundesliga",
-      "tip": "Home Over 0.5 Goals",
+      "match": "Verona 🆚 Bologna",
+      "league": "Italy - Serie A",
+      "tip": "Over 0.5 Goals",
       "odds": 1.17,
       "time": "17:30",
       "status": "Pending",
@@ -13,19 +13,19 @@
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Borussia Dortmund  🆚 Werder Bremen",
-      "league": "Germany Bundesliga",
+      "match": "Besiktas Istanbul  🆚 Ankara Keciorengucu",
+      "league": "Turkiye Kupasi",
       "tip": "Over 1.5 Goals",
       "odds": 1.15,
-      "time": "19:30",
+      "time": "17:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Mainz 🆚 Heidenhiem",
-      "league": "Germany Bundesliga",
-      "tip": "Mainz Over 0.5 Goals",
+      "match": "Augsburg 🆚 Union Berlin",
+      "league": "Germany - Undesliga",
+      "tip": "Under 3.5 Goals",
       "odds": 1.14,
       "time": "19:30",
       "status": "pending",
