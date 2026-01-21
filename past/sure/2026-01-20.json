@@ -3,19 +3,19 @@
    "note": "Today's matches have been carefully analyzed. Remember to bet responsibly!",
   "tips": [
     {
-      "match": "Senegal 🆚 Egypt",
-      "league": "Int - African Cup of NATIONS",
+      "match": "Verona 🆚 Bologna",
+      "league": "Italy - Serie A",
       "tip": "Over 0.5 Goals",
       "odds": 1.17,
-      "time": "17:00",
+      "time": "17:30",
       "status": "Pending",
       "confidence": 90,
       "createdAt": "2024-01-15T10:00:00Z"
     },
     {
-      "match": "Wolfsburg  🆚 FC St. Pauli",
-      "league": "Germany Bundesliga",
-      "tip": "Wolfsburg Over 0.5 Goals",
+      "match": "Besiktas Istanbul  🆚 Ankara Keciorengucu",
+      "league": "Turkiye Kupasi",
+      "tip": "Over 1.5 Goals",
       "odds": 1.15,
       "time": "17:30",
       "status": "pending",
@@ -23,11 +23,11 @@
       "createdAt": "2024-01-14T09:15:00Z"
     },
     {
-      "match": "Napoli 🆚 Parma",
-      "league": "Italy - Serie A",
-      "tip": "Napoli Over 0.5 Goals",
+      "match": "Augsburg 🆚 Union Berlin",
+      "league": "Germany - Undesliga",
+      "tip": "Under 3.5 Goals",
       "odds": 1.14,
-      "time": "17:30",
+      "time": "19:30",
       "status": "pending",
       "confidence": 90,
       "createdAt": "2024-01-15T11:30:00Z"
